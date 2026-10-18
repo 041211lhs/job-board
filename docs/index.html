@@ -50,16 +50,26 @@
   </section>
 
   <section id="tab-orgs" class="tab">
-    <div class="note">2025·2026년 실제 공고 원문 기준으로 정리했어요. 가산점은 공고의 표현 그대로 적었어요(%와 점수는 바꿔 계산하지 않음). 공식 자료에서 확인하지 못한 항목은 <b>확인 불가</b>로 표시했어요.<br>혜택 구분: <b>A</b> 지원자격 · <b>B</b> 가산점 · <b>C</b> 서류 배점 · <b>D</b> 우대 · <b>E</b> 전형 면제 · <b>F</b> 혜택 없음</div>
-    <div class="row chips" id="orgGroupChips"></div>
-    <div id="orgCards" class="cards"></div>
+    <div class="note">2025·2026년 실제 공고 원문 기준이에요. 가산점은 공고 표현 그대로(%와 점수를 바꿔 계산하지 않음), 확인 못 한 항목은 <b>확인 불가</b>.</div>
+    <div class="split">
+      <aside class="olist">
+        <input id="orgQ" type="search" placeholder="기관 검색">
+        <div class="chips small" id="orgGroupChips"></div>
+        <div id="orgList"></div>
+      </aside>
+      <article class="detail" id="orgDetail"></article>
+    </div>
   </section>
 
   <section id="tab-certs" class="tab">
-    <div class="note">기관별 채용조건에서 확인한 자격증을 모아 "하나 따면 몇 곳에서 쓰이는지" 계산했어요. 확인된 기관만 셌기 때문에 조사가 늘면 숫자도 바뀌어요.</div>
-    <div class="tablewrap"><table id="certTable"></table></div>
-    <div class="note">교육·봉사·인턴·지역인재 같은 <b>자격증 외 활동</b>이 실제 점수에 들어가는 기관이에요. 여기 없는 활동(서포터즈·기자단·동아리 등)은 조사한 공고에서 가점이 확인되지 않은 것으로, 자기소개서·경험기술서 소재로만 쓰여요.</div>
-    <div class="tablewrap"><table id="actTable"></table></div>
+    <div class="note">조사한 기관 공고에서 확인한 자격증을 모아 <b>하나 따면 몇 곳에서 쓰이는지</b> 세었어요. 기관 이름을 누르면 그 기관 상세로 이동해요.
+      <div class="legend"><span class="badge tA">지원자격</span><span class="badge tE">전형 면제</span><span class="badge tB">가산점</span><span class="badge tC">서류 배점</span><span class="badge tD">우대</span></div></div>
+    <h2 class="sech">준비할 만한 자격증</h2>
+    <div class="cgrid" id="certCards"></div>
+    <h2 class="sech">교육·봉사·인턴·지역 <span class="muted">자격증 외 활동</span></h2>
+    <p class="muted lead">서포터즈·기자단·동아리·경시대회는 조사한 공고에서 가점이 확인되지 않아 자기소개서 소재로만 쓰여요.</p>
+    <div class="cgrid" id="actCards"></div>
+    <details class="profold"><summary>전문자격(CPA·변호사·CFA 등) 보기</summary><div class="cgrid" id="proCards"></div></details>
   </section>
 
   <section id="tab-manual" class="tab">
