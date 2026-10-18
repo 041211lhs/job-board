@@ -178,3 +178,19 @@ a { color: var(--brand); }
   .dtable td:first-child { width: auto; }
   .clist li { grid-template-columns: 1fr; }
 }
+
+/* 한눈에 비교 */
+.viewtoggle { display: inline-flex; background: var(--soft); border: 1px solid var(--line); border-radius: 10px; padding: 3px; margin: 2px 0 12px; }
+.viewtoggle button { border: 0; background: none; font: inherit; font-size: 14px; font-weight: 600; color: var(--muted); padding: 6px 14px; border-radius: 7px; cursor: pointer; }
+.viewtoggle button.on { background: var(--card); color: var(--ink); box-shadow: 0 1px 2px rgba(0,0,0,.08); }
+#cmpChips { margin-bottom: 10px; }
+#cmpTable { width: 100%; border-collapse: collapse; font-size: 13.5px; min-width: 980px; }
+#cmpTable th { position: sticky; top: 0; background: var(--bg); color: var(--muted); font-weight: 600; font-size: 12px; text-align: left; padding: 9px 10px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+#cmpTable td { padding: 10px; border-bottom: 1px solid var(--line); vertical-align: top; line-height: 1.45; }
+#cmpTable tbody tr { cursor: pointer; }
+#cmpTable tbody tr:hover { background: var(--soft); }
+#cmpTable td:nth-child(2) { min-width: 150px; }
+#cmpTable td:nth-child(6), #cmpTable td:nth-child(7) { min-width: 160px; }
+.fit { font-size: 15px; }
+.dash { color: var(--line); }
+.hotnote { color: var(--accent); font-weight: 700; }

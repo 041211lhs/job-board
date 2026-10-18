@@ -51,7 +51,13 @@
 
   <section id="tab-orgs" class="tab">
     <div class="note">2025·2026년 실제 공고 원문 기준이에요. 가산점은 공고 표현 그대로(%와 점수를 바꿔 계산하지 않음), 확인 못 한 항목은 <b>확인 불가</b>.</div>
-    <div class="split">
+    <div class="viewtoggle"><button data-view="table" class="on">한눈에 비교</button><button data-view="detail">기관 상세</button></div>
+    <div id="cmpWrap">
+      <div class="chips small" id="cmpChips"></div>
+      <div class="tablewrap"><table id="cmpTable"></table></div>
+      <p class="muted lead" style="margin-top:8px">✅ 지금 스펙으로 지원 가능 · ⚠ 조건부(한국사·자격증 등 필요) · ❔ 공식 공고 미확보. 행을 누르면 상세로 이동해요.</p>
+    </div>
+    <div class="split" id="detailWrap" hidden>
       <aside class="olist">
         <input id="orgQ" type="search" placeholder="기관 검색">
         <div class="chips small" id="orgGroupChips"></div>

@@ -4,7 +4,7 @@ const GROUPS = ['금융공기업', '금융기관(비공공)', '신용보증재�
 // 내가 가진 자격증 (자격증 효율표 표시용)
 const MINE = { 'TESAT': '2급 보유', '컴퓨터활용능력': '2급 보유', 'ERP정보관리사': '회계 2급 보유', 'TOEIC': '770', 'TOEIC Speaking': 'IH', '한국사능력검정시험': '80회 결과 대기' };
 
-const state = { tab: 'open', q: '', org: '', orgQ: '', onlyTarget: true, regions: new Set(), kinds: new Set(['체험형 인턴', '채용형 인턴', '신입 정규직', '계약직·기간제']), groups: new Set(), orgGroup: '' };
+const state = { tab: 'open', q: '', org: '', orgQ: '', orgView: 'table', cmpGroup: '', onlyTarget: true, regions: new Set(), kinds: new Set(['체험형 인턴', '채용형 인턴', '신입 정규직', '계약직·기간제']), groups: new Set(), orgGroup: '' };
 let JOBS = [], ORGS = [], UPDATED = '', NEW = new Set();
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -82,7 +82,7 @@ function weightBar(w) {
 function orgDetail(o) {
   if (!o) return '<div class="empty">왼쪽에서 기관을 골라 주세요.</div>';
   const r = o.research || {}, e = r.exam || {};
-  const pills = `<span class="pill">${esc(o.group)}</span><span class="pill">본사 ${esc(o.region)}</span>${r.status ? `<span class="pill ${r.status === '조사 완료' ? 'ok' : 'warn'}">${esc(r.status)}</span>` : '<span class="pill">조사 예정</span>'}`;
+  const pills = `<span class="pill">${esc(o.group)}</span><span class="pill">본사 ${esc(o.city || o.region)}</span>${r.status ? `<span class="pill ${r.status === '조사 완료' ? 'ok' : 'warn'}">${esc(r.status)}</span>` : '<span class="pill">조사 예정</span>'}`;
   if (!r.status) return `<header class="dh"><h2>${esc(o.name)}</h2><div class="pills">${pills}</div></header><div class="empty">아직 조사하지 않은 기관이에요.</div>`;
   const certs = r.certs || [];
   const real = certs.filter(c => (c.type || '')[0] !== 'F'), none = certs.filter(c => (c.type || '')[0] === 'F');
@@ -104,7 +104,25 @@ function orgDetail(o) {
       ${actRows ? `<table class="dtable"><thead><tr><th>항목</th><th>구분</th><th>혜택</th></tr></thead><tbody>${actRows}</tbody></table>` : prop('내용', r.activities)}</section>
     <div class="btns">${(r.links || []).map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.name)} ↗</a>`).join('')}</div>`;
 }
+function renderCompare() {
+  const groups = GROUPS.filter(g => ORGS.some(o => o.group === g && o.research?.summary));
+  const el = $('#cmpChips');
+  el.innerHTML = ['전체', ...groups].map(g => `<button data-v="${g}" class="${(state.cmpGroup || '전체') === g ? 'on' : ''}">${g}</button>`).join('');
+  el.onclick = e => { const b = e.target.closest('button'); if (!b) return; state.cmpGroup = b.dataset.v === '전체' ? '' : b.dataset.v; renderCompare(); };
+  const FIT = { ok: '<span class="fit ok">✅</span>', warn: '<span class="fit warn">⚠</span>', unk: '<span class="fit unk">❔</span>' };
+  const L = ORGS.filter(o => o.research?.summary && (!state.cmpGroup || o.group === state.cmpGroup));
+  const rank = o => ({ ok: 0, warn: 1, unk: 2 }[o.research.summary.fit] ?? 3);
+  L.sort((a, b) => (/접수 중/.test(b.research.summary.note) - /접수 중/.test(a.research.summary.note)) || rank(a) - rank(b) || GROUPS.indexOf(a.group) - GROUPS.indexOf(b.group));
+  const cell = v => !v || v === '-' ? '<span class="dash">–</span>' : esc(v);
+  $('#cmpTable').innerHTML = '<thead><tr><th></th><th>기관</th><th>본사</th><th>어학</th><th>한국사</th><th>경제 필기</th><th>지역 우대</th><th>다음 공고</th></tr></thead><tbody>' +
+    L.map(o => { const s = o.research.summary; return `<tr data-org="${esc(o.name)}"><td>${FIT[s.fit] || ''}</td><td><b>${esc(o.name)}</b>${s.note ? `<div class="sub2 ${/접수 중/.test(s.note) ? 'hotnote' : ''}">${esc(s.note)}</div>` : ''}</td><td>${esc(o.city || o.region)}</td><td>${cell(s.lang)}</td><td>${cell(s.hist)}</td><td>${cell(s.econ)}</td><td>${cell(s.region)}</td><td>${cell(s.next)}</td></tr>`; }).join('') + '</tbody>';
+}
+
 function renderOrgs() {
+  document.querySelectorAll('.viewtoggle button').forEach(b => b.classList.toggle('on', b.dataset.view === state.orgView));
+  $('#cmpWrap').hidden = state.orgView !== 'table';
+  $('#detailWrap').hidden = state.orgView !== 'detail';
+  if (state.orgView === 'table') { renderCompare(); return; }
   const groups = GROUPS.filter(g => ORGS.some(o => o.group === g));
   const el = $('#orgGroupChips');
   el.innerHTML = ['전체', ...groups].map(g => `<button data-v="${g}" class="${(state.orgGroup || '전체') === g ? 'on' : ''}">${g}</button>`).join('');
@@ -233,10 +251,11 @@ $('#q').oninput = e => { state.q = e.target.value; render(); };
 $('#onlyTarget').onchange = e => { state.onlyTarget = e.target.checked; save(); render(); };
 document.addEventListener('click', e => {
   const a = e.target.closest('[data-org]'); if (!a) return; e.preventDefault();
-  state.org = a.dataset.org; state.orgGroup = ''; state.orgQ = '';
+  state.org = a.dataset.org; state.orgGroup = ''; state.orgQ = ''; state.orgView = 'detail';
   const q = $('#orgQ'); if (q) q.value = '';
   if (state.tab !== 'orgs') go('orgs'); else renderOrgs();
-  if (window.innerWidth < 820) $('#orgDetail').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  if (window.innerWidth < 820) $('#orgDetail').scrollIntoView({ behavior: 'smooth', block: 'start' }); else window.scrollTo(0, 0);
 });
+document.addEventListener('click', e => { const b = e.target.closest('.viewtoggle button'); if (!b) return; state.orgView = b.dataset.view; renderOrgs(); });
 document.addEventListener('input', e => { if (e.target.id === 'orgQ') { state.orgQ = e.target.value; renderOrgs(); } });
 load().catch(err => { $('#updated').textContent = '데이터를 불러오지 못했어요: ' + err; });
