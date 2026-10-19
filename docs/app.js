@@ -2,7 +2,7 @@ const REGIONS = ['서울', '창원', '부산', '진주', '그 외 경남', '기�
 const KINDS = ['체험형 인턴', '채용형 인턴', '신입 정규직', '계약직·기간제', '직원 채용(종류 확인)'];
 const GROUPS = ['금융공기업', '금융기관(비공공)', '신용보증재단', '시중은행', '지역 공공기관', '기타 공공기관'];
 // 내가 가진 자격증 (자격증 효율표 표시용)
-const MINE = { 'TESAT': '2급 보유', '컴퓨터활용능력': '2급 보유', 'ERP정보관리사': '회계 2급 보유', 'TOEIC': '770', 'TOEIC Speaking': 'IH', '한국사능력검정시험': '80회 결과 대기' };
+const MINE = { 'TESAT': '2급 보유', '컴퓨터활용능력': '2급 보유', 'ERP정보관리사': '회계 2급 보유', 'TOEIC': '770', 'TOEIC Speaking': 'IH', '한국사능력검정시험': '81회(11/28) 재응시' };
 
 const state = { tab: 'open', q: '', org: '', orgQ: '', orgView: 'table', cmpGroup: '', onlyTarget: true, regions: new Set(), kinds: new Set(['체험형 인턴', '채용형 인턴', '신입 정규직', '계약직·기간제']), groups: new Set(), orgGroup: '' };
 let JOBS = [], ORGS = [], UPDATED = '', NEW = new Set();
