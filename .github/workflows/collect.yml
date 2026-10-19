@@ -32,4 +32,9 @@ jobs:
           git config user.email "job-bot@users.noreply.github.com"
           git add docs/data
           git diff --cached --quiet || git commit -m "공고 갱신 $(TZ=Asia/Seoul date +%F)"
-          git push
+          # 같은 시각에 다른 수정이 올라와도 실패하지 않도록 최신 내용을 받아 다시 시도
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 10
+          done
+          exit 1
