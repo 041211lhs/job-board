@@ -24,6 +24,7 @@ jobs:
         if: env.DISCORD_WEBHOOK != ''
         env:
           SITE_URL: https://041211lhs.github.io/job-board/
+          RUN_EVENT: ${{ github.event_name }}
         run: python collector/notify.py
       - name: 결과 저장
         run: |

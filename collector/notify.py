@@ -57,4 +57,7 @@ if TODAY.weekday() == 4:  # 금요일
     allopen = sorted([j for j in jobs.values() if j.get('open') and j.get('target')], key=lambda j: j.get('deadline') or '9999')
     week = [j for j in jobs.values() if j.get('target') and j.get('first_seen', '')[:10] >= (TODAY - datetime.timedelta(days=6)).isoformat()]
     send(f'🗂 금요일 요약 · 이번 주 새 공고 {len(week)}건 · 지금 진행 중 {len(allopen)}건 (마감 순)', [line(j) for j in allopen])
+if os.environ.get('RUN_EVENT') == 'workflow_dispatch':  # 직접 실행 시 연결 확인 메시지
+    allopen = sorted([j for j in jobs.values() if j.get('open') and j.get('target')], key=lambda j: j.get('deadline') or '9999')
+    send(f'🔔 연결 확인 · 지금 진행 중인 관심 기관 공고 {len(allopen)}건 (마감 임박 5건)', [line(j) for j in allopen[:5]])
 print('알림 완료', len(new), len(soon))
