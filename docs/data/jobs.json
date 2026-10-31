@@ -104,7 +104,7 @@
 "kinds": [
 "계약직·기간제"
 ],
-"open": true
+"open": false
 },
 "alio-306094": {
 "first_seen": "2026-10-18T21:59+09:00",
@@ -173,7 +173,7 @@
 "kinds": [
 "계약직·기간제"
 ],
-"open": true
+"open": false
 },
 "alio-306125": {
 "first_seen": "2026-10-18T21:59+09:00",
@@ -355,7 +355,7 @@
 "kinds": [
 "계약직·기간제"
 ],
-"open": true
+"open": false
 },
 "alio-306098": {
 "first_seen": "2026-10-18T21:59+09:00",
@@ -461,7 +461,7 @@
 "kinds": [
 "계약직·기간제"
 ],
-"open": true
+"open": false
 },
 "alio-306100": {
 "first_seen": "2026-10-18T21:59+09:00",
@@ -637,7 +637,7 @@
 "posted": "2026-10-16",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306110",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -686,7 +686,7 @@
 "posted": "2026-10-16",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306107",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -739,7 +739,7 @@
 "posted": "2026-10-16",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306106",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "금융공기업",
 "org_key": "한국재정정보원",
@@ -802,7 +802,7 @@
 "posted": "2026-10-16",
 "deadline": "2026-11-11",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306105",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -895,7 +895,7 @@
 "kinds": [
 "계약직·기간제"
 ],
-"open": true
+"open": false
 },
 "alio-306036": {
 "first_seen": "2026-10-18T21:59+09:00",
@@ -1050,7 +1050,7 @@
 "kinds": [
 "계약직·기간제"
 ],
-"open": true
+"open": false
 },
 "alio-306045": {
 "first_seen": "2026-10-18T21:59+09:00",
@@ -1111,7 +1111,7 @@
 "kinds": [
 "계약직·기간제"
 ],
-"open": true
+"open": false
 },
 "alio-306046": {
 "first_seen": "2026-10-18T21:59+09:00",
@@ -1124,7 +1124,7 @@
 "posted": "2026-10-15",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306046",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -1339,7 +1339,7 @@
 "kinds": [
 "계약직·기간제"
 ],
-"open": true
+"open": false
 },
 "alio-306034": {
 "first_seen": "2026-10-18T21:59+09:00",
@@ -1930,7 +1930,7 @@
 "kinds": [
 "계약직·기간제"
 ],
-"open": true
+"open": false
 },
 "alio-306083": {
 "first_seen": "2026-10-18T21:59+09:00",
@@ -1979,7 +1979,7 @@
 "kinds": [
 "계약직·기간제"
 ],
-"open": true
+"open": false
 },
 "alio-306082": {
 "first_seen": "2026-10-18T21:59+09:00",
@@ -2031,7 +2031,7 @@
 "kinds": [
 "체험형 인턴"
 ],
-"open": true
+"open": false
 },
 "alio-306081": {
 "first_seen": "2026-10-18T21:59+09:00",
@@ -2086,7 +2086,7 @@
 "kinds": [
 "계약직·기간제"
 ],
-"open": true
+"open": false
 },
 "alio-306079": {
 "first_seen": "2026-10-18T21:59+09:00",
@@ -2142,7 +2142,7 @@
 "kinds": [
 "계약직·기간제"
 ],
-"open": true
+"open": false
 },
 "alio-306071": {
 "first_seen": "2026-10-18T21:59+09:00",
@@ -8385,7 +8385,7 @@
 "posted": "2026-10-01",
 "deadline": "2026-10-31",
 "url": "https://job.alio.go.kr/recruitview.do?idx=305623",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -8439,7 +8439,7 @@
 "posted": "2026-10-01",
 "deadline": "2026-10-31",
 "url": "https://job.alio.go.kr/recruitview.do?idx=305588",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -8612,7 +8612,7 @@
 "posted": "2026-09-23",
 "deadline": "2026-12-31",
 "url": "https://job.alio.go.kr/recruitview.do?idx=305301",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -8665,7 +8665,7 @@
 "posted": "2026-09-11",
 "deadline": "2026-12-31",
 "url": "https://job.alio.go.kr/recruitview.do?idx=304874",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -8718,7 +8718,7 @@
 "posted": "2026-09-01",
 "deadline": "2026-12-31",
 "url": "https://job.alio.go.kr/recruitview.do?idx=304455",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -9508,7 +9508,7 @@
 "kinds": [
 "계약직·기간제"
 ],
-"open": true
+"open": false
 },
 "ce-2026-B000802-000008": {
 "first_seen": "2026-10-18T21:59+09:00",
@@ -11318,7 +11318,7 @@
 "deadline": "2026-10-12",
 "state": "접수마감",
 "url": "https://gnsinbo.recruiter.co.kr/career/jobs/267563",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "신용보증재단",
 "org_key": "경남신용보증재단",
@@ -11342,7 +11342,7 @@
 "deadline": "2026-08-11",
 "state": "접수마감",
 "url": "https://gnsinbo.recruiter.co.kr/career/jobs/261425",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "신용보증재단",
 "org_key": "경남신용보증재단",
@@ -11366,7 +11366,7 @@
 "deadline": "2026-04-23",
 "state": "접수마감",
 "url": "https://gnsinbo.recruiter.co.kr/career/jobs/250740",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "신용보증재단",
 "org_key": "경남신용보증재단",
@@ -11390,7 +11390,7 @@
 "deadline": "2025-09-21",
 "state": "접수마감",
 "url": "https://kbstar.recruiter.co.kr/career/jobs/227856",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "KB국민은행",
@@ -11414,7 +11414,7 @@
 "deadline": "2025-06-18",
 "state": "접수마감",
 "url": "https://kbstar.recruiter.co.kr/career/jobs/219662",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "KB국민은행",
@@ -11438,7 +11438,7 @@
 "deadline": "2025-04-08",
 "state": "접수마감",
 "url": "https://kbstar.recruiter.co.kr/career/jobs/212970",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "KB국민은행",
@@ -11462,7 +11462,7 @@
 "deadline": "2024-12-05",
 "state": "접수마감",
 "url": "https://kbstar.recruiter.co.kr/career/jobs/200706",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "KB국민은행",
@@ -11486,7 +11486,7 @@
 "deadline": "2024-09-24",
 "state": "접수마감",
 "url": "https://kbstar.recruiter.co.kr/career/jobs/194035",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "KB국민은행",
@@ -11510,7 +11510,7 @@
 "deadline": "2024-09-24",
 "state": "접수마감",
 "url": "https://kbstar.recruiter.co.kr/career/jobs/194019",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "KB국민은행",
@@ -11534,7 +11534,7 @@
 "deadline": "2024-09-24",
 "state": "접수마감",
 "url": "https://kbstar.recruiter.co.kr/career/jobs/194016",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "KB국민은행",
@@ -11558,7 +11558,7 @@
 "deadline": "2024-04-17",
 "state": "접수마감",
 "url": "https://kbstar.recruiter.co.kr/career/jobs/178744",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "KB국민은행",
@@ -11582,7 +11582,7 @@
 "deadline": "2024-04-17",
 "state": "접수마감",
 "url": "https://kbstar.recruiter.co.kr/career/jobs/178743",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "KB국민은행",
@@ -11606,7 +11606,7 @@
 "deadline": "2024-04-17",
 "state": "접수마감",
 "url": "https://kbstar.recruiter.co.kr/career/jobs/178712",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "KB국민은행",
@@ -11630,7 +11630,7 @@
 "deadline": "2026-10-19",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/268653",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -11654,7 +11654,7 @@
 "deadline": "2026-09-17",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/265338",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -11678,7 +11678,7 @@
 "deadline": "2026-09-17",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/265809",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -11702,7 +11702,7 @@
 "deadline": "2026-09-14",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/265616",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -11726,7 +11726,7 @@
 "deadline": "2026-09-13",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/265125",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -11750,7 +11750,7 @@
 "deadline": "2026-08-18",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/262460",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -11774,7 +11774,7 @@
 "deadline": "2026-07-20",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/259348",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -11798,7 +11798,7 @@
 "deadline": "2026-07-14",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/259282",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -11822,7 +11822,7 @@
 "deadline": "2026-07-05",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/257965",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -11846,7 +11846,7 @@
 "deadline": "2026-07-05",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/257736",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -11870,7 +11870,7 @@
 "deadline": "2026-07-05",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/257730",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -11894,7 +11894,7 @@
 "deadline": "2026-06-24",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/257286",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -11918,7 +11918,7 @@
 "deadline": "2026-06-17",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/256876",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -11942,7 +11942,7 @@
 "deadline": "2026-06-21",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/256529",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -11966,7 +11966,7 @@
 "deadline": "2026-06-14",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/256178",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -11990,7 +11990,7 @@
 "deadline": "2026-05-24",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/253567",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -12014,7 +12014,7 @@
 "deadline": "2026-05-20",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/253175",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -12038,7 +12038,7 @@
 "deadline": "2026-05-17",
 "state": "접수마감",
 "url": "https://shinhan.recruiter.co.kr/career/jobs/253049",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "신한은행",
@@ -12062,7 +12062,7 @@
 "deadline": "2022-04-30",
 "state": "접수마감",
 "url": "https://hanabank.recruiter.co.kr/career/jobs/93984",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "하나은행",
@@ -12086,7 +12086,7 @@
 "deadline": "2026-10-19",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/268525",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12110,7 +12110,7 @@
 "deadline": "2099-12-31",
 "state": "접수중",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/266577",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12134,7 +12134,7 @@
 "deadline": "2099-12-31",
 "state": "접수중",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/266582",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12158,7 +12158,7 @@
 "deadline": "2026-10-11",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/267733",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12182,7 +12182,7 @@
 "deadline": "2026-10-02",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/265750",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12206,7 +12206,7 @@
 "deadline": "2026-09-16",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/265072",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12230,7 +12230,7 @@
 "deadline": "2026-08-02",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/260944",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12254,7 +12254,7 @@
 "deadline": "2026-05-25",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/253709",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12278,7 +12278,7 @@
 "deadline": "2026-05-25",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/253624",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12302,7 +12302,7 @@
 "deadline": "2026-05-10",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/252283",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12326,7 +12326,7 @@
 "deadline": "2026-04-27",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/250691",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12350,7 +12350,7 @@
 "deadline": "2026-03-18",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/246417",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12374,7 +12374,7 @@
 "deadline": "2026-03-04",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/245057",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12398,7 +12398,7 @@
 "deadline": "2026-02-24",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/244116",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12422,7 +12422,7 @@
 "deadline": "2026-02-13",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/242956",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12446,7 +12446,7 @@
 "deadline": "2025-11-30",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/234816",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12470,7 +12470,7 @@
 "deadline": "2025-11-23",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/233956",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12494,7 +12494,7 @@
 "deadline": "2025-11-05",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/232559",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12518,7 +12518,7 @@
 "deadline": "2025-10-12",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/230631",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12542,7 +12542,7 @@
 "deadline": "2025-09-08",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/225636",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12566,7 +12566,7 @@
 "deadline": "2025-06-29",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/219726",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12590,7 +12590,7 @@
 "deadline": "2025-04-22",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/213406",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12614,7 +12614,7 @@
 "deadline": "2024-09-18",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/192086",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12638,7 +12638,7 @@
 "deadline": "2023-11-08",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/161036",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12663,7 +12663,7 @@
 "deadline": "2023-07-23",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/149349",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12687,7 +12687,7 @@
 "deadline": "2023-07-23",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/149352",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12711,7 +12711,7 @@
 "deadline": "2023-07-23",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/149351",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12735,7 +12735,7 @@
 "deadline": "2023-04-23",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/130031",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12759,7 +12759,7 @@
 "deadline": "2022-09-14",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/113360",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12783,7 +12783,7 @@
 "deadline": "2022-06-10",
 "state": "접수마감",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/99736",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -12807,7 +12807,7 @@
 "deadline": "2099-12-31",
 "state": "접수중",
 "url": "https://knbank.recruiter.co.kr/career/jobs/202171",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -12831,7 +12831,7 @@
 "deadline": "2026-10-11",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/267771",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -12855,7 +12855,7 @@
 "deadline": "2026-09-27",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/267588",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -12879,7 +12879,7 @@
 "deadline": "2026-10-02",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/265763",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -12903,7 +12903,7 @@
 "deadline": "2026-09-14",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/265767",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -12927,7 +12927,7 @@
 "deadline": "2026-09-13",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/265600",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -12951,7 +12951,7 @@
 "deadline": "2026-09-13",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/265395",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -12975,7 +12975,7 @@
 "deadline": "2026-09-09",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/264562",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -12999,7 +12999,7 @@
 "deadline": "2026-08-30",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/263406",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13023,7 +13023,7 @@
 "deadline": "2026-08-25",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/262945",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13047,7 +13047,7 @@
 "deadline": "2026-08-13",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/262660",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13071,7 +13071,7 @@
 "deadline": "2026-08-09",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/261715",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13095,7 +13095,7 @@
 "deadline": "2026-08-04",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/261500",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13119,7 +13119,7 @@
 "deadline": "2026-08-05",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/260862",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13143,7 +13143,7 @@
 "deadline": "2026-07-26",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/260312",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13167,7 +13167,7 @@
 "deadline": "2026-07-19",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/259207",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13191,7 +13191,7 @@
 "deadline": "2026-07-12",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/258981",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13215,7 +13215,7 @@
 "deadline": "2026-07-12",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/258954",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13239,7 +13239,7 @@
 "deadline": "2026-06-24",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/257239",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13263,7 +13263,7 @@
 "deadline": "2026-06-07",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/255296",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13287,7 +13287,7 @@
 "deadline": "2026-05-25",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/253521",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13311,7 +13311,7 @@
 "deadline": "2026-05-17",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/253318",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13335,7 +13335,7 @@
 "deadline": "2026-05-20",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/253065",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13359,7 +13359,7 @@
 "deadline": "2026-05-17",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/252808",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13383,7 +13383,7 @@
 "deadline": "2026-05-17",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/252378",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13407,7 +13407,7 @@
 "deadline": "2026-04-26",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/251394",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13431,7 +13431,7 @@
 "deadline": "2026-05-31",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/250905",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13455,7 +13455,7 @@
 "deadline": "2026-04-26",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/250818",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13479,7 +13479,7 @@
 "deadline": "2026-04-12",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/250249",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13504,7 +13504,7 @@
 "deadline": "2026-04-30",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/250073",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13528,7 +13528,7 @@
 "deadline": "2026-04-30",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/250071",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13552,7 +13552,7 @@
 "deadline": "2026-04-30",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/250070",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13576,7 +13576,7 @@
 "deadline": "2026-04-30",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/250069",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13601,7 +13601,7 @@
 "deadline": "2026-04-30",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/250040",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13625,7 +13625,7 @@
 "deadline": "2026-04-12",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/249316",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13649,7 +13649,7 @@
 "deadline": "2026-04-07",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/249213",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13673,7 +13673,7 @@
 "deadline": "2026-04-05",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/248909",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13697,7 +13697,7 @@
 "deadline": "2026-04-07",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/248553",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13721,7 +13721,7 @@
 "deadline": "2026-04-07",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/248552",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13745,7 +13745,7 @@
 "deadline": "2026-03-22",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/247576",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13770,7 +13770,7 @@
 "deadline": "2026-03-22",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/247178",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13794,7 +13794,7 @@
 "deadline": "2026-03-22",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/247173",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13818,7 +13818,7 @@
 "deadline": "2026-03-15",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/246949",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13842,7 +13842,7 @@
 "deadline": "2026-03-15",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/246762",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13866,7 +13866,7 @@
 "deadline": "2026-03-15",
 "state": "접수마감",
 "url": "https://knbank.recruiter.co.kr/career/jobs/246724",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -13966,7 +13966,7 @@
 "posted": "2026-10-19",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306059",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -14019,7 +14019,7 @@
 "posted": "2026-10-19",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306092",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "지역 공공기관",
 "org_key": "한국토지주택공사",
@@ -14072,7 +14072,7 @@
 "posted": "2026-10-20",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306160",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -14125,7 +14125,7 @@
 "posted": "2026-10-20",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306158",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "금융공기업",
 "org_key": "중소벤처기업진흥공단",
@@ -14194,7 +14194,7 @@
 "posted": "2026-10-20",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306155",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -14251,7 +14251,7 @@
 "posted": "2026-10-20",
 "deadline": "2026-11-04",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306130",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -14308,7 +14308,7 @@
 "posted": "2026-10-19",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306135",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -14361,7 +14361,7 @@
 "posted": "2026-10-19",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306134",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -14414,7 +14414,7 @@
 "posted": "2026-10-19",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306132",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -14467,7 +14467,7 @@
 "posted": "2026-10-19",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306131",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -14524,7 +14524,7 @@
 "posted": "2026-10-19",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306129",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -14574,7 +14574,7 @@
 "posted": "2026-10-19",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306136",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -14627,7 +14627,7 @@
 "posted": "2026-10-19",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306138",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -14680,7 +14680,7 @@
 "posted": "2026-10-19",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306157",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -14800,7 +14800,7 @@
 "posted": "2026-10-19",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306152",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -14853,7 +14853,7 @@
 "posted": "2026-10-19",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306146",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -14910,7 +14910,7 @@
 "posted": "2026-10-19",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306144",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -15026,7 +15026,7 @@
 "posted": "2026-10-19",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306142",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -15149,7 +15149,7 @@
 "deadline": "2099-12-31",
 "state": "접수중",
 "url": "https://busanbank.recruiter.co.kr/career/jobs/269821",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK부산은행",
@@ -15172,7 +15172,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306233",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -15229,7 +15229,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306231",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -15286,7 +15286,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-08",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306166",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -15343,7 +15343,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306104",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -15396,7 +15396,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306175",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -15449,7 +15449,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306192",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -15502,7 +15502,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306193",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -15727,7 +15727,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306183",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -15785,7 +15785,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-04",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306140",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -15838,7 +15838,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306118",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -15900,7 +15900,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306117",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -15966,7 +15966,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306115",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -16042,7 +16042,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306089",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "지역 공공기관",
 "org_key": "한국남부발전",
@@ -16095,7 +16095,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-04",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306197",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -16140,7 +16140,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306199",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -16193,7 +16193,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306230",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -16246,7 +16246,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306228",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -16311,7 +16311,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306223",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -16364,7 +16364,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306221",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -16429,7 +16429,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306220",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -16482,7 +16482,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306219",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -16653,7 +16653,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306215",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -16710,7 +16710,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306214",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -16766,7 +16766,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306202",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -16831,7 +16831,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306203",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -16953,7 +16953,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-04",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306208",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -17010,7 +17010,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306213",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -17067,7 +17067,7 @@
 "posted": "2026-10-20",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306181",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -17120,7 +17120,7 @@
 "posted": "2026-10-20",
 "deadline": "2026-11-04",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306180",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -17177,7 +17177,7 @@
 "posted": "2026-10-20",
 "deadline": "2026-11-04",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306179",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -17462,7 +17462,7 @@
 "posted": "2026-10-20",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306170",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -17565,7 +17565,7 @@
 "kinds": [
 "계약직·기간제"
 ],
-"open": true
+"open": false
 },
 "alio-306167": {
 "first_seen": "2026-10-22T09:21+09:00",
@@ -17631,7 +17631,7 @@
 "posted": "2026-10-19",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306227",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -17704,7 +17704,7 @@
 "posted": "2026-10-23",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306222",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -17761,7 +17761,7 @@
 "posted": "2026-10-23",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306145",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -17814,7 +17814,7 @@
 "posted": "2026-10-23",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306200",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -18040,7 +18040,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306243",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -18146,7 +18146,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306254",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -18211,7 +18211,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-08",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306279",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -18264,7 +18264,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-08",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306278",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -18317,7 +18317,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-08",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306277",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -18370,7 +18370,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306276",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "해외지사 공공기관",
 "org_key": "한국관광공사",
@@ -18427,7 +18427,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306273",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -18484,7 +18484,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306272",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -18542,7 +18542,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306270",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -18656,7 +18656,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306268",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -18766,7 +18766,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306257",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -18827,7 +18827,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306258",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -18880,7 +18880,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306259",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -19062,7 +19062,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306263",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -19176,7 +19176,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306266",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "해외지사 공공기관",
 "org_key": "한국관광공사",
@@ -19290,7 +19290,7 @@
 "posted": "2026-10-16",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306285",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -19411,7 +19411,7 @@
 "posted": "2026-10-23",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306287",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -19460,7 +19460,7 @@
 "posted": "2026-10-23",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306305",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "해외지사 공공기관",
 "org_key": "한국관광공사",
@@ -19517,7 +19517,7 @@
 "posted": "2026-10-23",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306302",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -19574,7 +19574,7 @@
 "posted": "2026-10-23",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306301",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -19625,7 +19625,7 @@
 "posted": "2026-10-23",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306300",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -19736,7 +19736,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-10",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306245",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -19789,7 +19789,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306264",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "지역 공공기관",
 "org_key": "한국토지주택공사",
@@ -19842,7 +19842,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306274",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "지역 공공기관",
 "org_key": "한국토지주택공사",
@@ -19895,7 +19895,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306205",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "지역 공공기관",
 "org_key": "한국토지주택공사",
@@ -19948,7 +19948,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306204",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -20018,7 +20018,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306289",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "지역 공공기관",
 "org_key": "한국토지주택공사",
@@ -20071,7 +20071,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-10",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306304",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -20138,7 +20138,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306314",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -20195,7 +20195,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306307",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "지역 공공기관",
 "org_key": "한국토지주택공사",
@@ -20252,7 +20252,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306366",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -20317,7 +20317,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306330",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -20366,7 +20366,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306341",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -20420,7 +20420,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-10",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306342",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -20465,7 +20465,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306345",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -20519,7 +20519,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-10",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306348",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -20564,7 +20564,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-10",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306349",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -20610,7 +20610,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-11",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306325",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "지역 공공기관",
 "org_key": "한국남부발전",
@@ -20671,7 +20671,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306352",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -20726,7 +20726,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306354",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -20781,7 +20781,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306358",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -20835,7 +20835,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306361",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -20889,7 +20889,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-16",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306363",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -20950,7 +20950,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-10",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306365",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -21003,7 +21003,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306321",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -21064,7 +21064,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-10",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306319",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -21114,7 +21114,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306318",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -21175,7 +21175,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306316",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -21228,7 +21228,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-10",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306294",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -21294,7 +21294,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-10",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306322",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "지역 공공기관",
 "org_key": "한국청소년상담복지개발원",
@@ -21355,7 +21355,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-12",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306323",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -21412,7 +21412,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306336",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -21471,7 +21471,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306339",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -21525,7 +21525,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306346",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -21580,7 +21580,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306335",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -21631,7 +21631,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306347",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -21685,7 +21685,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306324",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -21747,7 +21747,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306351",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -21854,7 +21854,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306331",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "금융공기업",
 "org_key": "서민금융진흥원",
@@ -21971,7 +21971,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-11",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306419",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -22024,7 +22024,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-11",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306359",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "지역 공공기관",
 "org_key": "한국토지주택공사",
@@ -22077,7 +22077,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-04",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306383",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -22130,7 +22130,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-04",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306386",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -22183,7 +22183,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-04",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306390",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -22241,7 +22241,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-04",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306393",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -22299,7 +22299,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306398",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -22353,7 +22353,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306399",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -22407,7 +22407,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306414",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -22461,7 +22461,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-04",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306404",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -22514,7 +22514,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-12",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306408",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -22567,7 +22567,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306412",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -22621,7 +22621,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-12",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306327",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -22678,7 +22678,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-10",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306362",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -22740,7 +22740,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-16",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306355",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "금융공기업",
 "org_key": "IBK기업은행",
@@ -22811,7 +22811,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-04",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306368",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -22864,7 +22864,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-10",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306369",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -22917,7 +22917,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-11",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306405",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "해외지사 공공기관",
 "org_key": "한국관광공사",
@@ -22983,7 +22983,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-10",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306396",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -23041,7 +23041,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-11",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306395",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "지역 공공기관",
 "org_key": "국토안전관리원",
@@ -23208,7 +23208,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306389",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -23270,7 +23270,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306388",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -23323,7 +23323,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306387",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -23384,7 +23384,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-11",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306375",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -23437,7 +23437,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-12-16",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306376",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -23491,7 +23491,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306377",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -23552,7 +23552,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-06",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306373",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -23613,7 +23613,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306380",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -23670,7 +23670,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-11",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306385",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -23727,7 +23727,7 @@
 "posted": "2026-10-26",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306371",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -23780,7 +23780,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306378",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -23837,7 +23837,7 @@
 "posted": "2026-10-21",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306379",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -23895,7 +23895,7 @@
 "deadline": "2026-11-11",
 "state": "접수중",
 "url": "https://knbank.recruiter.co.kr/career/jobs/270498",
-"last_seen": "2026-10-30T10:29+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "시중은행",
 "org_key": "BNK경남은행",
@@ -23918,7 +23918,7 @@
 "posted": "2026-10-29",
 "deadline": "2026-11-13",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306473",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -23967,7 +23967,7 @@
 "posted": "2026-10-29",
 "deadline": "2026-11-12",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306415",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "지역 공공기관",
 "org_key": "한국토지주택공사",
@@ -24020,7 +24020,7 @@
 "posted": "2026-10-29",
 "deadline": "2026-11-04",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306447",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24074,7 +24074,7 @@
 "posted": "2026-10-29",
 "deadline": "2026-11-04",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306452",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24128,7 +24128,7 @@
 "posted": "2026-10-29",
 "deadline": "2026-11-13",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306456",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24189,7 +24189,7 @@
 "posted": "2026-10-29",
 "deadline": "2026-11-13",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306356",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24246,7 +24246,7 @@
 "posted": "2026-10-29",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306462",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24300,7 +24300,7 @@
 "posted": "2026-10-29",
 "deadline": "2026-11-11",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306472",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24359,7 +24359,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-04",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306422",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24408,7 +24408,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-13",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306421",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24465,7 +24465,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-13",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306420",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24522,7 +24522,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306427",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24576,7 +24576,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-16",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306428",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24621,7 +24621,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306463",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24688,7 +24688,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-11",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306454",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24749,7 +24749,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-12",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306453",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24816,7 +24816,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-11",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306451",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24879,7 +24879,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-11",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306449",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24936,7 +24936,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306446",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -24993,7 +24993,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-13",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306443",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -25054,7 +25054,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-10",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306432",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -25123,7 +25123,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-12",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306433",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -25180,7 +25180,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-03",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306430",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -25234,7 +25234,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-02",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306442",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -25291,7 +25291,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-12",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306441",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -25348,7 +25348,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-12",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306440",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": true,
 "group": "금융공기업",
 "org_key": "기술보증기금",
@@ -25403,7 +25403,7 @@
 "posted": "2026-10-28",
 "deadline": "2026-11-09",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306439",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -25452,7 +25452,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-11",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306460",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -25509,7 +25509,7 @@
 "posted": "2026-10-27",
 "deadline": "2026-11-11",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306459",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -25566,7 +25566,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306425",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -25624,7 +25624,7 @@
 "posted": "2026-10-22",
 "deadline": "2026-11-05",
 "url": "https://job.alio.go.kr/recruitview.do?idx=306423",
-"last_seen": "2026-10-29T10:28+09:00",
+"last_seen": "2026-10-31T10:21+09:00",
 "target": false,
 "group": "기타 공공기관",
 "org_key": "",
@@ -25669,8 +25669,1835 @@
 "계약직·기간제"
 ],
 "open": true
+},
+"alio-306559": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306559",
+"title": "2026년 하반기 제2차 한국문화예술위원회 휴직대체인력(일반행정) 및 계약직(일반행정) 채용",
+"org": "한국문화예술위원회",
+"loc": "서울 외 1",
+"work_type": "비정규직",
+"posted": "2026-10-30",
+"deadline": "2026-11-13",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306559",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "경영.회계.사무,문화.예술.디자인.방송",
+"edu": "학력무관",
+"field": "계약직",
+"career": "경력",
+"work_type_full": "비정규직",
+"locs": [
+"서울",
+"전남광주"
+],
+"pay": "신입 / 평균",
+"headcount": "11명",
+"home_url": "https://www.arko.or.kr/board/view/4054?bid=&page=&cid=1811333",
+"qualification": "가.응시자격 ※ 모집분야별 필수 요건을 모두 충족하여야 함\nㅇ 자격 요건 : 성별, 나이, 학력, 신체조건 제한 없음\nㅇ 비고\n- 경력 증빙·인정 기준\n·경력(또는 재직)증명서 및 건강보험자격득실확인서를 기준으로 함\n·경력증명서에 수행업무가 명시되어야 함\n나. 임용예정일 기준 즉시 근무가 가능한 자\n다. 한국문화예술위원회 「인사관리규정」 상 결격사유에 해당하지 않는 자",
+"preference": "1.장애인 고용촉진 및 직업재활법에 따른 장애인\n적용 모집분야 : 모든 모집분야\n가산점 : 5점\n적용전형 : 서류\n증빙서류 : 장애인증명서\n2.「국가유공자 등 예우 및 지원에 관한 법률」 제29조의 규정에 의한 취업지원대상자\n적용 모집분야 : 모집분야①, 모집분야②\n가산점 : 5점 또는 10점\n적용전형 : 모든 전형\n증빙서류 : 취업지원 대상자 증명서(제출처에 예술위 명시)",
+"process": "ㅇ서류전형(3배수) : 입사지원서, 직무수행계획서 평가\n*심사위원 개별 채점, 평균 점수 산출 후 가점을 합산한 최종점수 고득점순 3배수 선발\nㅇ면접전형(1배수) : 인터뷰 방식 대면 평가\n*심사위원 개별 채점, 평균 점수 산출 후 가산점을 합산한 최종점수를 기준으로 고득점순 1배수 선발\nㅇ채용검진 및 임용예정자 검증\nㅇ임용 : 임용 및 근로계약 체결\n※ 세부내용 공고 게시글 참고\n(모집분야①) 상주작가지원사업\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n(모집분야②) 휴직대체인력(나주)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n(모집분야③) 휴직대체인력(서울)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-",
+"files": [
+{
+"name": "(공고문) 2026년 하반기 제2차 한국문화예술위원회 휴직대체인력(일반행정) 및 계약직(일반행정) 채용.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084243"
+},
+{
+"name": "(입사지원서 및 직무수행계획서) 일반행정.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084244"
+},
+{
+"name": "(직무기술서) 일반행정.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084245"
+}
+]
+},
+"regions": [
+"서울",
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306503": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306503",
+"title": "2026년 (재)한국에너지재단 제2차 기간제 채용 공고(채용 제2026-06호)",
+"org": "재단법인 한국에너지재단",
+"loc": "서울",
+"work_type": "비정규직",
+"posted": "2026-10-30",
+"deadline": "2026-11-13",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306503",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "경영.회계.사무",
+"edu": "학력무관",
+"field": "일반직,행정직,사무직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"서울"
+],
+"pay": "신입 / 평균",
+"headcount": "1명",
+"home_url": "https://www.koref.or.kr",
+"qualification": "ㅇ 재단 결격사유에 해당하지 않는 자\nㅇ 임용일 기준 60세(정년) 미만인 자\nㅇ 재단이 정한 입사일로부터 즉시 근무가 가능한 자",
+"preference": "◎ 취업 지원 대상자\n- 「취업지원 업무처리지침」제41조의3 의거 별도 가점 미부여 및 동점자 처리 1순위\n◎ 장애인\n- 전형별 만점의 5% 부여\n◎ 사회형평대상자(북한이탈주민, 기초생활수급자, 한부모가정, 다문화가정)\n- 서류전형 만점의 3%\n◎ 공공기관 청년인턴\n- 서류전형 만점의 3%\n◎ 비수도권 지역인재\n- 서류전형 만점의 2%\n◎ 자격 소지자\n- 서류전형 만점의 1%",
+"process": "◎ 1차(서류전형)\n- 입사지원서 기반 심사(입사지원서 평가 및 가점 평가)\n- 채용예정인원의 5배수 선발\n- 동점자 발생 시 5배수 범위 내 전원 선발\n◎ 2차(면접전형)\n- NCS기반 직업기초능력 및 직무수행능력 검증\n- 채용예정인원의 1배수 선발\n- 예비합격자: 채용예정인원의 2배수 내 선발(자격: 임용일로부터 3개월까지)\n* 결격사유 발생 또는 포기, 조기 퇴사 등으로 결원 발생 시 예비 합격자 내 순차 채용\n- 동점자 발생 시 아래 순서로 합격자 결정\n* 취업지원대상자 → 서류전형 상위자 → 장애인 → 청년 → 비수도권 지역인재\n경영(경영지원)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n공고문\n[공고] 2026년 제2차 기간제 직원 채용 공고문.pdf\n입사지원서\n직무기술서\n[별첨3] 직무기술서.hwp\n기타 첨부파일\n[별첨1] 채용 공고 붙임서류.hwp\n[별첨2] 개인정보 수집·이용 및 제3자 제공 동의서.hwp\n미첨부사유\n(입사지원서 미첨부) 채용 홈페이지를 통해 입사지원서 전자 양식 제공\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');",
+"files": [
+{
+"name": "[공고] 2026년 제2차 기간제 직원 채용 공고문.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083604"
+},
+{
+"name": "[별첨3] 직무기술서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083605"
+},
+{
+"name": "[별첨1] 채용 공고 붙임서류.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083606"
+},
+{
+"name": "[별첨2] 개인정보 수집·이용 및 제3자 제공 동의서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083607"
+}
+]
+},
+"regions": [
+"서울"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306528": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306528",
+"title": "[덕유산] 덕유산국립공원 가을철 한시인력(산불감시원) 채용 공고",
+"org": "국립공원공단",
+"loc": "경남 외 1",
+"work_type": "비정규직",
+"posted": "2026-10-30",
+"deadline": "2026-11-04",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306528",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "환경.에너지.안전",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"경남",
+"전북"
+],
+"pay": "신입 / 평균",
+"headcount": "4명",
+"home_url": "https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019996",
+"qualification": "- 공단 인사규정 제18조(결격사유)에 해당되지 않는 자\n- 근무시작(예정)일부터 근무 가능한 자\n- 전공, 학력, 연령 제한 없음",
+"preference": "1. 국가유공자 등 예우 및 지원에 관한 법률 제29조의 규정에 의한 취업지원대상자 (5%~10%, 단계별 가점)\n2. 장애인고용촉진 및 직업재활법 제2조 제1호의 규정에 의한 장애인 (서류전형에 한함, 5%)\n3. 아동복지법 제38조에 따라 보호조치가 종료되거나 해당시설에서 퇴소한 지 5년 이내인 자(서류전형에 한함, 5%)",
+"process": "직무적합성 심사\n- 산불감시원: 직무관련 경험·경력 70%, 직무자격 30%, 우대가점5~10% 합산 후 고득점 순\n본소 한시인력(산불감시원)\n구분\n선발인원\n응시인원\n결과 확정일\n최종\n-\n-\n-\n남덕유분소 한시인력(산불감시원)\n구분\n선발인원\n응시인원\n결과 확정일\n최종\n-\n-\n-\n적상분소 한시인력(산불감시원)\n구분\n선발인원\n응시인원\n결과 확정일\n최종\n-\n-\n-\n안성분소 한시인력(산불감시원)\n구분\n선발인원\n응시인원\n결과 확정일\n최종\n-\n-\n-\n공고문\n채용공고문_덕유산국립공원 가을철 한시인력(산불감시원) 채용.hwp",
+"files": [
+{
+"name": "채용공고문_덕유산국립공원 가을철 한시인력(산불감시원) 채용.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084017"
+},
+{
+"name": "붙임1. 입사지원서 및 경험경력기술서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084018"
+},
+{
+"name": "붙임2. NCS 기반 채용 직무 설명자료(산불감시원).hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084019"
+},
+{
+"name": "붙임3. 경력확인서(양식).hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084020"
+},
+{
+"name": "붙임4. 인정자격 목록(산불감시원).hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084021"
+}
+]
+},
+"regions": [
+"그 외 경남",
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306530": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306530",
+"title": "[경주] 2026년 경주국립공원 기간제(산불감시) 직원 채용 공고",
+"org": "국립공원공단",
+"loc": "경북",
+"work_type": "비정규직",
+"posted": "2026-10-30",
+"deadline": "2026-11-06",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306530",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "경비.청소,농림어업",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"경북"
+],
+"pay": "신입 / 평균",
+"headcount": "6명",
+"home_url": "https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019991",
+"qualification": "- 공단 인사규정 제18조(결격사유)에 해당되지 않은 자\n- 연령, 전공, 학력 제한 없음\n- (제한경쟁) 장애인고용촉진 및 직업재활법 제2조 제1호의 규정에 의한 장애인",
+"preference": "* 취업지원 대상자(국가유공자 등 예우 및 지원에 관한 법률 제29조의 규정에 의한 취업지원대상자에 대하여 동법 제31조에 따라 가점 적용)\n(만점의 5%, 10%/전형단계별)\n* 장애인(장애인고용촉진 및 직업재활법 제2조제1호의 규정에 의한 장애인) (만점의 5%/서류전형 한정)\n* 자립준비 청년(아동복지법 제38조에 따라 보호조치가 종료되거나 해당시설에서 퇴소한 지 5년 이내인 자(보호종료 또는 자립수당수급자 확인서 보유자) (만점의 5%/서류전형 한정)",
+"process": "1. 서류전형: 직업기초능력(100%)\n2. 면접전형: 직업기초역량(40%), 직무수행역량(60%)\n3. 최종합격자 선발: 서류전형(40%), 면접전형(60%) 합산 후 고득점 순\n기간제(산불감시_공개경쟁)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n기간제(산불감시_제한경쟁)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n공고문\n붙임1. 채용공고(산불감시)(1).pdf\n입사지원서\n붙임4. 입사지원서 및 경험경력 기술서.hwp\n직무기술서\n붙임3. NCS 기반 채용직무 설명자료.hwp\n기타 첨부파일\n붙임2. 경력증명서(양식)(1).hwp\n미첨부사유\n닫기\n$('ul.tabsContent li').click(function(){",
+"files": [
+{
+"name": "붙임1. 채용공고(산불감시)(1).pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084025"
+},
+{
+"name": "붙임4. 입사지원서 및 경험경력 기술서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084026"
+},
+{
+"name": "붙임3. NCS 기반 채용직무 설명자료.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084027"
+},
+{
+"name": "붙임2. 경력증명서(양식)(1).hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084028"
+}
+]
+},
+"regions": [
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306533": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306533",
+"title": "[지리산전남] 지리산국립공원전남사무소 가을철 기간제(산불감시원) 직원 채용 공고",
+"org": "국립공원공단",
+"loc": "전남광주",
+"work_type": "비정규직",
+"posted": "2026-10-30",
+"deadline": "2026-11-09",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306533",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "환경.에너지.안전",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"전남광주"
+],
+"pay": "신입 / 평균",
+"headcount": "3명",
+"home_url": "https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019997",
+"qualification": "□ 공단 인사규정 제18조(결격사유)에 해당되지 않는 자\n□ 근무시작(예정)일부터 근무 가능한 자\n□ 연령, 전공, 학력 등 제한 없음",
+"preference": "□ 취업지원대상자\n- 국가유공자 등 예우 및 지원에 관한 법률 제29조의 규정에 의한 취업지원대상자에 대해 동법 제31조에 따라 가점 적용\n□ 장애인\n- 장애인고용촉진 및 직업재활법 제2조 제1호의 규정에 의한 장애인\n□ 자립준비청년\n- 아동복지법 제38조에 따라 보호조치가 종료되거나 해당시설에서 퇴소한지 5년 이내인자(보호종료 또는 자립수당수급자 확인서 보유자)",
+"process": "□ 직무적합성 심사\n- 직무관련 경험경력기술서(40%)\n- 직무관련 경력사항(30%)\n- 직무 자격(30%)\n- 우대가점\n산불감시원(기간제)\n구분\n선발인원\n응시인원\n결과 확정일\n최종\n-\n-\n-\n공고문\n채용 공고문.hwp\n입사지원서\n붙임1. 입사지원서 및 경험_경력기술서.hwp\n직무기술서\n붙임4. NCS 기반 채용 직무 설명자료.hwp\n기타 첨부파일\n붙임2. 직무 인정자격 목록.hwp\n붙임3. 경력증명서(경력확인서).hwp\n미첨부사유\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');\n$(this).addClass('current');\n$(this).addClass('on');\n$(\"#\"+tab_id).addClass('current');\n});\nfunction dateFormatter(data){\nvar date = \"\";\ndate = data.toLocaleDateString('ko-KR', {year:'numeric', month: '2-digit', day: '2-digit'});\ndate = date.slice(0, date.length-1).replace(/ /gi, \"\"); // '2024.01.01'형식\nreturn date;\n}",
+"files": [
+{
+"name": "채용 공고문.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084050"
+},
+{
+"name": "붙임1. 입사지원서 및 경험_경력기술서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084051"
+},
+{
+"name": "붙임4. NCS 기반 채용 직무 설명자료.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084052"
+},
+{
+"name": "붙임2. 직무 인정자격 목록.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084053"
+},
+{
+"name": "붙임3. 경력증명서(경력확인서).hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084054"
+}
+]
+},
+"regions": [
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306534": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306534",
+"title": "[팔공산서부] 2026년 팔공산국립공원서부사무소 국립공원지킴이 채용(4차) 공고",
+"org": "국립공원공단",
+"loc": "경북",
+"work_type": "비정규직",
+"posted": "2026-10-30",
+"deadline": "2026-11-13",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306534",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "경비.청소",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"경북"
+],
+"pay": "신입 / 평균",
+"headcount": "6명",
+"home_url": "https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019995",
+"qualification": "- 공단 인사규정 제18조(결격사유)에 해당되지 않는 자\n- 학력, 전공, 나이 제한 없음\n- (추가채용) 소득 및 자산 기준 초과자 참여 가능하나, 전형단계별 감점 및 후순위로 선발\n- 직접일자리사업 반복 및 중복 참여자는 참여 제한(공고문 참고)",
+"preference": "국립공원 지역주민, 관련 분야 경력자, 봉사활동 실적 보유자, 취업취약계층, 취업지원대상자(전형별 5%, 10%)",
+"process": "- 서류전형 및 직무적합성평가: 2026. 11. 25.~26.\n- 근로계약체결 및 근무시작일: 2026. 12. 1.\n※ 내부사정에 따라 채용 일정 등이 변경될 수 있음\n국립공원지킴이(본소)\n구분\n선발인원\n응시인원\n결과 확정일\n최종\n-\n-\n-\n국립공원지킴이(경산영천분소)\n구분\n선발인원\n응시인원\n결과 확정일\n최종\n-\n-\n-\n공고문\n팔공산국립공원서부사무소 2026년 국립공원지킴이 채용(4차) 공고문.hwp\n입사지원서\n붙임1. 사업참여신청서 및 개인정보수집동의서.hwp\n직무기술서\n붙임4. NCS 기반 직무 설명자료.hwp\n기타 첨부파일\n붙임2. 경력경험기술서.hwp\n붙임3. 경력확인서.hwp\n붙임5. 반복참여 제한 안내문.hwp\n미첨부사유\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');\n$(this).addClass('current');\n$(this).addClass('on');",
+"files": [
+{
+"name": "팔공산국립공원서부사무소 2026년 국립공원지킴이 채용(4차) 공고문.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084064"
+},
+{
+"name": "붙임1. 사업참여신청서 및 개인정보수집동의서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084065"
+},
+{
+"name": "붙임4. NCS 기반 직무 설명자료.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084066"
+},
+{
+"name": "붙임2. 경력경험기술서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084067"
+},
+{
+"name": "붙임3. 경력확인서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084068"
+},
+{
+"name": "붙임5. 반복참여 제한 안내문.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084069"
+}
+]
+},
+"regions": [
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306536": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306536",
+"title": "한전KPS(주) 안동사업소 2026년 1호기 긴급복구공사 단기노무원(안전패트롤) 채용(1차)",
+"org": "한전KPS(주)",
+"loc": "경북",
+"work_type": "비정규직",
+"posted": "2026-10-30",
+"deadline": "2026-11-02",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306536",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "환경.에너지.안전",
+"edu": "학력무관",
+"field": "계약직",
+"career": "경력",
+"work_type_full": "비정규직",
+"locs": [
+"경북"
+],
+"pay": "신입 / 평균",
+"headcount": "1명",
+"home_url": "https://www.kps.co.kr/",
+"qualification": "가. 채용예정일 즉시 근무가능한 자\n나. 수행직무별 지원자격(아래 각 호에 해당하는 자)\n○ 안전 관련 자격증 소지자\n○ 산업현장/건설현장 안전관리 또는 안전감시단 경력 2년 이상인 자",
+"preference": "○보훈대상자 (국가유공자 등 예우 및 지원에 관한 법률 제29조의 규정에 의한 취업보호대상자)\n: 전형단계별 만점의 5% 가점(서류전형 5점 가점)\n○안전 관련 기술사 자격증: 서류전형 5점 가점\n○건설업 기초안전보건교육 이수자: 서류전형 5점 가점",
+"process": "*자세한 채용일정 및 내용은 반드시 채용공고문 확인해주세요!*\n1. 전형단계 : 서류전형 → 신체검사 → 합격자발표\n2. 서류접수기간 : 2026. 10. 30.(금) ~ 2026. 11. 2.(월) 16:00\n○ 접수방법\n-방문접수: 경북 안동시 풍산읍 산업단지3길 17 한전KPS(주) 안동사업소 (사전통보 요망 070-7879-4333)\n-E-MAIL접수: khs1159@kps.co.kr\n-FAX접수: 054-859-8261 (FAX후 전화 요망 070-7879-4333)\n○ 전화 문의처: 한전KPS 안동사업소 안전팀 070-7879-4338~4339\n○ 제출서류\n-블라인드 입사지원서 1부 (입사지원서에 출신지역,가족관계,신체적 조건,학력 등 기재 및 사진부착시 서류접수 불가)\n-개인정보제공동의서\n-관련 자격증 및 증빙서류(사본) 각 1부\n-경력증명서, 소득금액증명, 4대보험 중 1개 자격득실확인서 각 1부(3개 모두 필요)\n-보훈대상자 증명서: 취업지원대상자증명원(원본) 및 국가유공자 (사본) 1부 (해당자에 한함)\n※서류심사는 블라인드로 진행되며 제출서류는 입사지원 내용 증빙으로만 사용됩니다.\n3. 서류전형 : 2026. 11. 3.(화) 예정\n4. 신체검사 : 2026. 11. 4.(수)~2026. 11. 5.(목) 예정\n5. 합격자 발표 : 2026. 11. 6.(금) 예정\n6. 근무예정기간: 2026. 11. 9.(월)~2026. 11. 30.(월)\n※ 채용일정 및 계약기간은 회사 사정에 따라 달라질 수 있음\n안전패트롤\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n공고문\n2026년 안동 1호기 긴급복구공사 단기노무원(1차) 채용공고문.hwp\n입사지원서\n입사지원서 양식 및 개인정보제공동의서.hwp\n직무기술서\n직무기술서(안전패트롤).hwp\n기타 첨부파일",
+"files": [
+{
+"name": "2026년 안동 1호기 긴급복구공사 단기노무원(1차) 채용공고문.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084164"
+},
+{
+"name": "입사지원서 양식 및 개인정보제공동의서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084082"
+},
+{
+"name": "직무기술서(안전패트롤).hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084083"
+}
+]
+},
+"regions": [
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306543": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306543",
+"title": "2026년 제15차 위촉직원 채용공고(휴직대체)",
+"org": "산업연구원",
+"loc": "세종",
+"work_type": "비정규직",
+"posted": "2026-10-30",
+"deadline": "2026-11-16",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306543",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "연구",
+"edu": "석사",
+"field": "연구직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"세종"
+],
+"pay": "신입 / 평균",
+"headcount": "1명",
+"home_url": "https://www.kiet.re.kr/communicate/ntcHireView?ntc_no=10755&skey=&sval=&pg=1&pp=10",
+"qualification": "○ 남자의 경우 채용 공고일 현재 병역필 또는 면제자\n○ 임용일로부터 현업 전일 근무가 가능한 자\n○ 공고마감일 기준 석사학위 취득자",
+"preference": "<가산점>\n○ 취업지원대상자(응시자의 수가 선발예정인원보다 같거나 그보다 적은 경우), 장애인, 이전지역인재, 청년인턴(본원 수료자)\n<우대사항>\n○ 경력단절 여성(고용촉진장려금 지급 대상이 되는 취업지원프로그램 참여 확인서 및 수료증·이수증 제출이 가능한 자)\n○ 기타 붙임의 채용공고문 및 직무기술서 우대사항 확인",
+"process": "○ 1차 전형(서류심사) ⇒ 2차 전형(면접심사) ⇒ 최종합격\n※ 합격배수 및 평가요소는 채용공고문 참조\n연구직-지역산업입지연구실-위촉연구원\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n공고문\n2026년 제15차 위촉직원 채용공고.pdf\n입사지원서\n직무기술서\n산업연구원 직무기술서(연구직-지역산업입지 연구-위촉연구원).pdf\n기타 첨부파일\n채용 이의신청서.hwp\n미첨부사유\n* 입사지원서는 산업연구원 온라인 채용사이트 양식 활용\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');\n$(this).addClass('current');\n$(this).addClass('on');\n$(\"#\"+tab_id).addClass('current');\n});\nfunction dateFormatter(data){\nvar date = \"\";\ndate = data.toLocaleDateString('ko-KR', {year:'numeric', month: '2-digit', day: '2-digit'});\ndate = date.slice(0, date.length-1).replace(/ /gi, \"\"); // '2024.01.01'형식\nreturn date;\n}",
+"files": [
+{
+"name": "2026년 제15차 위촉직원 채용공고.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084159"
+},
+{
+"name": "산업연구원 직무기술서(연구직-지역산업입지 연구-위촉연구원).pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084160"
+},
+{
+"name": "채용 이의신청서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084161"
+}
+]
+},
+"regions": [
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306547": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306547",
+"title": "[북한산도봉] 북한산국립공원도봉사무소 한시인력(산불감시원, 2차)직원 채용 공고",
+"org": "국립공원공단",
+"loc": "서울 외 1",
+"work_type": "비정규직",
+"posted": "2026-10-30",
+"deadline": "2026-11-04",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306547",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "경비.청소,농림어업",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"서울",
+"경기"
+],
+"pay": "신입 / 평균",
+"headcount": "4명",
+"home_url": "https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019999",
+"qualification": "- 공단 인사규정 제18조(결격사유)에 해당되지 않는 자\n- 근무시작(예정)일부터 근무 가능한 자\n- 연령, 전공, 학력 등 제한 없음",
+"preference": "□ 취업지원대상자\n- 국가유공자 등 예우 및 지원에 관한 법률 제29조의 규정에 의한 취업지원대상자에 대해 동법 제31조에 따라 가점 적용\n□ 장애인\n- 장애인고용촉진 및 직업재활법 제2조 제1호의 규정에 의한 장애인\n□ 자립준비청년\n- 아동복지법 제38조에 따라 보호조치가 종료되거나 해당시설에서 퇴소한지 5년 이내인자(보호종료 또는 자립수당수급자 확인서 보유자)",
+"process": "□ 직무적합성 심사\n- 직무관련 경험경력기술서(40%)\n- 직무관련 경력사항(30%)\n- 직무 자격(30%)\n- 우대가점\n한시인력(산불감시원)\n구분\n선발인원\n응시인원\n결과 확정일\n최종\n-\n-\n-\n공고문\n채용공고문(산불감시원 2차).pdf\n입사지원서\n직무기술서\n붙임 3. NCS 기반 채용 직무 설명자료.hwp\n기타 첨부파일\n붙임 2. 경력확인서(양식).hwp\n붙임 1. 인정자격목록.hwp\n미첨부사유\n온라인 입사지원시스템 운영으로 입사지원서 미첨부\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');\n$(this).addClass('current');\n$(this).addClass('on');\n$(\"#\"+tab_id).addClass('current');\n});\nfunction dateFormatter(data){\nvar date = \"\";\ndate = data.toLocaleDateString('ko-KR', {year:'numeric', month: '2-digit', day: '2-digit'});\ndate = date.slice(0, date.length-1).replace(/ /gi, \"\"); // '2024.01.01'형식\nreturn date;\n}",
+"files": [
+{
+"name": "채용공고문(산불감시원 2차).pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084180"
+},
+{
+"name": "붙임 3. NCS 기반 채용 직무 설명자료.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084181"
+},
+{
+"name": "붙임 2. 경력확인서(양식).hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084182"
+},
+{
+"name": "붙임 1. 인정자격목록.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084183"
+}
+]
+},
+"regions": [
+"서울",
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306550": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306550",
+"title": "한전KPS(주)강원충북전력지사 단기노무원(춘천지점 상주감시) 채용 공고(36차)",
+"org": "한전KPS(주)",
+"loc": "강원",
+"work_type": "비정규직",
+"posted": "2026-10-30",
+"deadline": "2026-11-02",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306550",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "건설,전기.전자",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"강원"
+],
+"pay": "신입 / 평균",
+"headcount": "1명",
+"home_url": "https://www.kps.co.kr",
+"qualification": "채용예정일 즉시 근무가능한 자",
+"preference": "○ 보훈대상자(각 전형단계별 만점의 5%~10% 가점)\n- 국가유공자 등 예우 및 지원에 관한 법률 제29조의 규정에 의한 취업보호대상자\n※ 「국가유공자 등 예우 및 지원에 관한 법률」 제31조 제3항에 의거, 채용인원 3명 이하인 경우 보훈대상자 가점 미적용\n(단, 응시자의 수가 선발 예정인원과 같거나 그보다 적은 경우에는 그러하지 아니함)\n○ 장애인(각 전형단계별 만점의 10%)\n- 장애인고용촉진 및 직업재활법 제2조 제1호의 규정에 의한 장애인으로 업무 수행이 가능한 자",
+"process": "□ 전형단계 :서류접수 → 블라인드 면접 및 신체검사\n□ 서류접수\n○ 접수기간 : 2026.10.30.(금)~2026.11.02.(월) 10:00\n○ 접수방법 : 담당자 이메일(GOM5902@KPS.CO.KR), 방문접수, 팩스(033-243-6601) / 제출 후 담당자 유선 확인(033-243-6605)\n□ 면접전형 및 신체검사 : 2026.11.03(화)(예정)\n□ 근무기간 : 2026.11.09.~2026.12.31. (주5일근무, 주40시간, 07:00~16:00),\n※현장사정에 따라 시간 변동 가능\n* 채용일정 및 계약기간은 공사일정 및 회사 사정에 따라 달라질 수 있음\n상주감시\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n공고문\n한전KPS(주) 강원충북전력지사 단기노무원 모집공고(춘천 상주감시) 1부.hwp\n입사지원서\n입사지원서_공고.hwp\n직무기술서\n직무기술서(상주감시) 1부.hwp\n기타 첨부파일\n개인정보제공동의서_공고.hwp\n미첨부사유\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');\n$(this).addClass('current');\n$(this).addClass('on');\n$(\"#\"+tab_id).addClass('current');\n});",
+"files": [
+{
+"name": "한전KPS(주) 강원충북전력지사 단기노무원 모집공고(춘천 상주감시) 1부.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084197"
+},
+{
+"name": "입사지원서_공고.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084198"
+},
+{
+"name": "직무기술서(상주감시) 1부.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084199"
+},
+{
+"name": "개인정보제공동의서_공고.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084200"
+}
+]
+},
+"regions": [
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306552": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306552",
+"title": "한전KPS(주)신한울1사업소 '26년도 신한울2호기 제2차 OH 단기노무원 채용 공고",
+"org": "한전KPS(주)",
+"loc": "경북",
+"work_type": "비정규직",
+"posted": "2026-10-30",
+"deadline": "2026-11-03",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306552",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "운전.운송,건설,기계,전기.전자,환경.에너지.안전",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"경북"
+],
+"pay": "신입 / 평균",
+"headcount": "128명",
+"home_url": "https://www.kps.co.kr",
+"qualification": "○ 채용예정일 즉시 근무 가능한 자\n○ 만18세 이상 건설업 기초안전보건교육 이수예정자\n○ (원자력기계설치공) 당사 등 발전설비 정비관련 기관 정비근무 유경력자\n○ (중기) 천장크레인 운전기능사 소지자\n○ (용접) 용접관련 기능사 이상 자격증 소지자\n○ (비파괴) 비파괴검사 국가자격 기사 이상 보유자\n○ (안전패트롤) 아래 요건중 하나 이상 자격 충족자\n- 산업안전(건설포함) 산업기사 이상 자격 소지자\n- 산업/건설현장 안전관리 또는 감리단 경력 5회 이상자\n- 발전설비 또는 플랜트현장에서 5년이상 근무한자\n○ (정비보조 장애인) 장애인고용촉진 및 직업재활법 제2조 제1호의 규정에 의한 장애인",
+"preference": "○ 보훈대상자(각 전형단계별 만점의 5~10% 가점)\n- 국가유공자 등 예우 및 지원에 관한 법률 제29조의 규정에 의한 취업보호대상자",
+"process": "□ 전형절차 및 일정\n□ 접수기간 : 2026.10.30(금) 16:00 ~ 2026.11.03(화) 13:00\n□ 접수방법 : 이메일(biz01005431@kps.co.kr, 054-785-8625)\n□ 서류제출안내\n가. 입사지원 시 : 입사지원서 1부(지원자 서명본), 개인정보제공동의서\n나. 서류심사 후(해당자에게 별도 연락 예정)\n□ 경력증명서, 소득금액증명원, 4대보험 중 1개 자격득실확인서 1부(해당자에 한함)\n□ 취업지원대상자증명원(원본) 및 국가유공자증(사본) 각 1부(해당자에 한함)\n□ 공고문 참조\n□ 문의처 : 054-785-8625\n정비보조일반\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n정비보조장애인\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n원자력 기계 설치공\n구분\n선발인원\n응시인원",
+"files": [
+{
+"name": "한전KPS(주)신한울1사업소 26년도 신한울2호기 제2차 OH 단기노무원 채용 공고문 1부.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084204"
+},
+{
+"name": "블라인드 입사지원서 1부.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084205"
+},
+{
+"name": "직무기술서 7부.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084206"
+}
+]
+},
+"regions": [
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306555": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306555",
+"title": "2026년 12월 한국교육과정평가원 비정규직원 모집 공고",
+"org": "한국교육과정평가원",
+"loc": "충북",
+"work_type": "비정규직",
+"posted": "2026-10-30",
+"deadline": "2026-11-09",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306555",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "경영.회계.사무,교육.자연.사회과학",
+"edu": "고졸,대졸(4년)",
+"field": "행정직,연구직",
+"career": "신입",
+"work_type_full": "비정규직",
+"locs": [
+"충북"
+],
+"pay": "신입 / 평균",
+"headcount": "3명",
+"home_url": "https://www.kice.re.kr/boardCnts/view.do?boardID=10028&boardSeq=5101198&lev=0&m=0503&searchType=S&statusYN=W&page=1&s=kice",
+"qualification": "-연구: 대한민국 국적 소지자, 국가공무원법 제33조의 결격 사유에 해당하지 않는 자, 「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」 제82조에 따른 비위면직자 등의 취업제한 적용에 해당하지 않는 자, 남자는 접수 마감일 기준 병역필 또는 면제자, 임용 예정일 기준으로 우리 원 인사규정에 따른 정년(만 60세)을 초과하는 자는 지원 불가, 학위 취득 예정자 포함(단, 임용일까지 자격 요건에 해당하는 학위증명서를 제출하지 않을 경우 임용 취소)\n- 행정: 대한민국 국적 소지자, 고등학교 졸업자 이상, 국가공무원법 제33조의 결격 사유에 해당하지 않는 자, 「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」 제82조에 따른 비위면직자 등의 취업제한 적용에 해당하지 않는 자, 임용 예정일 기준으로 우리 원 인사규정에 따른 정년(만 60세)을 초과하는 자는 지원 불가, 남자는 접수 마감일 기준 병역필 또는 면제자\n- 행정(장애인): 「장애인고용촉진 및 직업재활법 시행령」 제3조에 따른 장애인, 대한민국 국적 소지자, 고등학교 졸업자 이상, 국가공무원법 제33조의 결격 사유에 해당하지 않는 자, 「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」 제82조에 따른 비위면직자 등의 취업제한 적용에 해당하지 않는 자, 임용 예정일 기준으로 우리 원 인사 규정에 따른 정년(만 60세)을 초과하는 자는 지원 불가",
+"preference": "- 연구: 교육학 및 교과교육 전공자\n- 행정: MS-Office, 한글 등 프로그램 사용 능숙자, 연구지원 또는 행정 업무 수행 경험자\n- 행정(장애인): MS-Office, 한글 등 프로그램 사용 능숙자, 연구지원 또는 행정 업무 수행 경험자",
+"process": "1차(서류전형): 3배수, 자격 심사(적/부) 및 자기소개서 심사(100점)\n최종(면접전형): 면접점수(100점)\n미래학교교육연구본부(국가교육과정연구센터)_연구조원(위촉)_전공 무관\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n수업·평가혁신연구본부(수업·평가혁신연구지원부)_행정조원(위촉)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n수업·평가혁신연구본부(수업·평가혁신연구지원부)_행정조원(위촉)_장애인\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-",
+"files": [
+{
+"name": "공고문.zip",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084217"
+},
+{
+"name": "지원서.zip",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084218"
+},
+{
+"name": "직무기술서.zip",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3084219"
+}
+]
+},
+"regions": [
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306486": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306486",
+"title": "원무직 채용 공고",
+"org": "경상국립대학교병원",
+"loc": "경남",
+"work_type": "정규직",
+"posted": "2026-10-29",
+"deadline": "2026-11-04",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306486",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "보건.의료",
+"edu": "학력무관",
+"field": "일반직",
+"career": "신입+경력",
+"work_type_full": "정규직",
+"locs": [
+"경남"
+],
+"pay": "신입 / 평균",
+"headcount": "10명",
+"home_url": "https://gnuh.recruiter.co.kr/",
+"qualification": "1. 입사지원서 접수 마감일 현재 만 18세 이상이면서 60세 미만인 자\n2. 남자인 경우, 입사지원서 접수 마감일 현재 병역을 마쳤거나 면제된 자\n3. 모집분야별 응시자격에 따름(자세한 사항은 첨부파일의 채용공고문을 참조)\n4. 본원 인사규정 제24조(결격사유)에 해당되지 않는 자",
+"preference": "취업지원 대상자(「국가유공자 등 예우 및 지원에 관한 법률」등에 따른 가점을 받을 수 있는 사람)",
+"process": "1. 전형절차\n가. 전 단계의 시험에 합격하지 아니하면 다음 단계의 시험에 응시 할 수 없음.\n나. 각 시험 단계 별 득점은 누적되지 않으며, 해당 시험 단계의 득점으로 합격자를 결정함.\n2. 전형방법\n가. 1차(서류전형): 입사지원서 서면 심사 적부 판단\n나. 2차(필기시험): 해당 직무 수행에 필요한 지식 및 그 응용능력 검정, 100점\n라. 3차(1차 면접시험): 채용예정 직무 수행에 필요한 능력, 인성 및 적격성 검정, 100점\n마. 4차(2차 면접시험): 채용예정 직무 수행에 필요한 능력, 인성 및 적격성 검정, 100점\n바. 최종(신체검사 등): 신체검사 및 노인학대 관련 범죄 경력조회 등\n사무보조\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n3차\n-\n-\n-\n4차\n-\n-\n-\n최종\n-\n-\n-\n간호보조\n구분\n선발인원\n응시인원\n결과 확정일\n1차",
+"files": [
+{
+"name": "원무직 채용 공고.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083545"
+},
+{
+"name": "[서식] 입사지원서.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083546"
+},
+{
+"name": "직무기술서(원무직).zip",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083547"
+}
+]
+},
+"regions": [
+"그 외 경남"
+],
+"kinds": [
+"신입 정규직"
+],
+"open": true
+},
+"alio-306487": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306487",
+"title": "업무지원직 채용공고",
+"org": "경상국립대학교병원",
+"loc": "경남",
+"work_type": "정규직",
+"posted": "2026-10-29",
+"deadline": "2026-11-04",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306487",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "보건.의료",
+"edu": "학력무관",
+"field": "기타(업무지원직)",
+"career": "신입+경력",
+"work_type_full": "정규직",
+"locs": [
+"경남"
+],
+"pay": "신입 / 평균",
+"headcount": "21명",
+"home_url": "https://gnuh.recruiter.co.kr/",
+"qualification": "1. 입사지원서 접수 마감일 현재 만 18세 이상이면서 60세 미만인 자\n2. 남자인 경우, 입사지원서 접수 마감일 현재 병역을 마쳤거나 면제된 자\n3. 본원 인사규정 제24조(결격사유)에 해당되지 않는 자\n4. 모집분야별 응시자격에 따름(자세한 사항은 첨부파일의 채용공고문을 참조)",
+"preference": "취업지원 대상자(「국가유공자 등 예우 및 지원에 관한 법률」등에 따른 가점을 받을 수 있는 사람)",
+"process": "1. 전형절차\n가. 전 단계의 시험에 합격하지 아니하면 다음 단계의 시험에 응시 할 수 없음.\n나. 각 시험 단계 별 득점은 누적되지 않으며, 해당 시험 단계의 득점으로 합격자를 결정함.\n2. 전형방법\n가. 1차(서류전형): 입사지원서 서면 심사 적부 판단\n나. 2차(면접시험): 채용예정 직무 수행에 필요한 능력, 인성 및 적격성 검정, 100점\n다. 최종(신체검사 등): 신체검사 및 노인학대 관련 범죄 경력조회 등\n시설관리(전기)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n최종\n-\n-\n-\n시설관리(기계)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n최종\n-\n-",
+"files": [
+{
+"name": "업무지원직 채용 공고.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083548"
+},
+{
+"name": "[서식] 입사지원서.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083549"
+},
+{
+"name": "직무기술서(업무지원직).zip",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083550"
+}
+]
+},
+"regions": [
+"그 외 경남"
+],
+"kinds": [
+"신입 정규직"
+],
+"open": true
+},
+"alio-306492": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306492",
+"title": "계약직 채용공고",
+"org": "경상국립대학교병원",
+"loc": "경남",
+"work_type": "비정규직",
+"posted": "2026-10-29",
+"deadline": "2026-11-04",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306492",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "보건.의료",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"경남"
+],
+"pay": "신입 / 평균",
+"headcount": "30명",
+"home_url": "https://gnuh.recruiter.co.kr",
+"qualification": "1. 입사지원서 접수 마감일 현재 만 18세 이상이면서 60세 미만인 자\n2. 남자인 경우, 입사지원서 접수 마감일 현재 병역을 마쳤거나 면제된 자\n3. 계약직근무자규정 제6조 제1항 제1호에 따른 결격사유에 해당되지 않는 자\n4. 모집분야별 응시자격에 따름(자세한 사항은 첨부파일의 채용공고문을 참조)",
+"preference": "1. 취업지원 대상자(「국가유공자 등 예우 및 지원에 관한 법률」 등에 따라 가점을 받을 수 있는 사람)로서 가산점수가 많은 자\n2. 모집분야별 우대사항에 따름(자세한 사항은 첨부파일의 채용공고문을 참조)",
+"process": "1. 전형절차\n가. 전 단계의 시험에 합격하지 아니하면 다음 단계의 시험에 응시 할 수 없음.\n나. 각 시험 단계 별 득점은 누적되지 않으며, 해당 시험 단계의 득점으로 합격자를 결정함.\n2. 전형방법\n가. 1차(서류전형): 입사지원서 서면 심사 적부 판단\n나. 2차(면접시험): 채용예정 직무 수행에 필요한 능력, 인성 및 적격성 검정, 100점\n다. 최종(신체검사 등): 신체검사 및 노인학대 관련 범죄 경력조회 등\n응급의료정보관리자(응급의학과)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n최종\n-\n-\n-\n응급구조사(응급의학과)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n최종\n-\n-",
+"files": [
+{
+"name": "4. (본원) 계약직 채용 공고.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083565"
+},
+{
+"name": "[서식] 입사지원서.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083566"
+},
+{
+"name": "직무기술서 (2).zip",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083647"
+}
+]
+},
+"regions": [
+"그 외 경남"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306458": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306458",
+"title": "전쟁기념사업회 2026-3차 직원 채용 공고",
+"org": "전쟁기념사업회",
+"loc": "서울",
+"work_type": "무기계약직 외 2",
+"posted": "2026-10-29",
+"deadline": "2026-11-12",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306458",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "경영.회계.사무,문화.예술.디자인.방송,경비.청소,이용.숙박.여행.오락.스포츠,건설,기계,정보통신",
+"edu": "학력무관,대졸(4년),석사",
+"field": "일반직,연구직,기능직",
+"career": "신입",
+"work_type_full": "무기계약직,비정규직,정규직",
+"locs": [
+"서울"
+],
+"pay": "신입 / 평균",
+"headcount": "18명",
+"home_url": "http://www.warmemo.or.kr",
+"qualification": "분야별 조건이 상이하므로 홈페이지 공고문 필히 참조",
+"preference": "분야별 조건이 상이하므로 홈페이지 공고문 필히 참조",
+"process": "1차 서류전형\n2차 면접전형\n공통직 5급(회계/감사)-A01\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n공통직 5급(노무)-A02\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n학예직 6급(학예연구)-A03\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-",
+"files": [
+{
+"name": "1. 2026-3차 직원 채용 공고문.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083426"
+},
+{
+"name": "3. 2026-3차 입사지원서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083427"
+},
+{
+"name": "2. NCS 직무기술서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083428"
+},
+{
+"name": "4. 2026-3차 경력증명(확인)서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083429"
+},
+{
+"name": "5. 2026-3차 채용서류반환청구서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083430"
+}
+]
+},
+"regions": [
+"서울"
+],
+"kinds": [
+"신입 정규직"
+],
+"open": true
+},
+"alio-306494": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306494",
+"title": "단시간제(편의시설 점원) 채용공고",
+"org": "경상국립대학교병원",
+"loc": "경남",
+"work_type": "비정규직",
+"posted": "2026-10-29",
+"deadline": "2026-11-04",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306494",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "보건.의료",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"경남"
+],
+"pay": "신입 / 평균",
+"headcount": "2명",
+"home_url": "https://gnuh.recruiter.co.kr",
+"qualification": "1. 편의점 업무 가능자\n2. 연령 : 입사지원서 접수 마감일 현재 만18세 이상이면서 60세 미만인 자\n3. 계약직근무자규정 제6조 제1항 제1호에 따른 결격사유에 해당되지 않는 자",
+"preference": "취업지원 대상자(「국가유공자 등 예우 및 지원에 관한 법률」 등에 따라 가점을 받을 수 있는 사람)로서 가산점수가 많은 자",
+"process": "1. 전형절차\n가. 전 단계의 시험에 합격하지 아니하면 다음 단계의 시험에 응시 할 수 없음.\n나. 각 시험 단계 별 득점은 누적되지 않으며, 해당 시험 단계의 득점으로 합격자를 결정함.\n2. 전형방법\n가. 1차(서류전형): 입사지원서 서면 심사 적부 판단\n나. 2차(면접시험): 채용예정 직무 수행에 필요한 능력, 인성 및 적격성 검정, 100점\n다. 최종(신체검사 등): 신체검사 및 노인학대 관련 범죄 경력조회 등\n편의시설 점원(편의점)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n최종\n-\n-\n-\n공고문\n7. (본원) 단시간제(편의시설 점원) 채용 공고.pdf\n입사지원서\n[서식] 입사지원서.pdf\n직무기술서\n직무기술서 (단시간제_편의시설 점원).hwp\n기타 첨부파일\n미첨부사유\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');\n$(this).addClass('current');\n$(this).addClass('on');",
+"files": [
+{
+"name": "7. (본원) 단시간제(편의시설 점원) 채용 공고.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083571"
+},
+{
+"name": "[서식] 입사지원서.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083572"
+},
+{
+"name": "직무기술서 (단시간제_편의시설 점원).hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083573"
+}
+]
+},
+"regions": [
+"그 외 경남"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306516": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306516",
+"title": "제2026-1호 국립대구청소년디딤센터 청년인턴(체험형) 모집",
+"org": "한국청소년상담복지개발원",
+"loc": "대구",
+"work_type": "청년인턴(체험형)",
+"posted": "2026-10-29",
+"deadline": "2026-11-13",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306516",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": true,
+"group": "지역 공공기관",
+"org_key": "한국청소년상담복지개발원",
+"detail": {
+"ncs": "경영.회계.사무",
+"edu": "학력무관",
+"field": "행정직",
+"career": "신입",
+"work_type_full": "청년인턴(체험형)",
+"locs": [
+"대구"
+],
+"pay": "신입 / 평균",
+"headcount": "1명",
+"home_url": "https://kyci.fairyhr.com/announcement/detail/34",
+"qualification": "○ 청년인턴(체험형)_일반행정(12개월) : 1명\n- 지원서 접수마감일 기준 만 34세 이하",
+"preference": "국가유공자, 장애인, 지역인재, 저소득층, 한부모가족, 북한이탈주민, 다문화가족 등(※ 보다 자세한 사항은 첨부파일의 채용공고문을 참조)",
+"process": "○ 공고기간 : 2026년 10월 29일(목) ~ 2026년 11월 13일(금) 12:00까지\n○ 접수기간 : 2026년 10월 30일(금) ~ 2026년 11월 13일(금) 12:00까지\n○ 접수방법 : 입사지원 사이트(https://kyci.fairyhr.com) 통한 인터넷 접수\n○ 서류심사\n- 채용예정인원 5배수 이내 선발\n- 평가방법 및 배점 : 경력 및 경험사항 30%, 자격사항 30%, 자기소개서 40%,\n○ 면접심사\n- 채용예정인원 1배수 이내 선발\n- 평가방법 및 배점 : 직무 전문성 30%, 조직 적합성 30%, 인성 및 태도 40%\n청년인턴(체험형)_일반행정\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n공고문\n(청년인턴 채용공고 제2026-1호)국립대구청소년디딤센터 청년인턴(체험형) 모집 공고문.pdf\n입사지원서\n[붙임] 입사지원서(서식).pdf\n직무기술서\n기타 첨부파일\n[붙임] 가산점 부여 기준.pdf\n[붙임] 이의신청서.pdf\n[붙임] 채용서류 반환청구서.pdf\n미첨부사유\n청년인턴(체험형)에 대한 직무기술서 없음\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');\n$(this).addClass('current');",
+"files": [
+{
+"name": "(청년인턴 채용공고 제2026-1호)국립대구청소년디딤센터 청년인턴(체험형) 모집 공고문.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083672"
+},
+{
+"name": "[붙임] 입사지원서(서식).pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083673"
+},
+{
+"name": "[붙임] 가산점 부여 기준.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083674"
+},
+{
+"name": "[붙임] 이의신청서.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083675"
+},
+{
+"name": "[붙임] 채용서류 반환청구서.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083676"
+}
+]
+},
+"regions": [
+"기타"
+],
+"kinds": [
+"체험형 인턴"
+],
+"open": true
+},
+"alio-306513": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306513",
+"title": "제2026-3호 국립대구청소년디딤센터 직원 모집",
+"org": "한국청소년상담복지개발원",
+"loc": "대구",
+"work_type": "무기계약직",
+"posted": "2026-10-29",
+"deadline": "2026-11-13",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306513",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": true,
+"group": "지역 공공기관",
+"org_key": "한국청소년상담복지개발원",
+"detail": {
+"ncs": "경영.회계.사무,사회복지.종교,정보통신",
+"edu": "학력무관,고졸,대졸(2~3년),대졸(4년)",
+"field": "일반직",
+"career": "신입+경력",
+"work_type_full": "무기계약직",
+"locs": [
+"대구"
+],
+"pay": "신입 / 평균",
+"headcount": "2명",
+"home_url": "https://kyci.fairyhr.com/announcement/detail/33",
+"qualification": "○ 공무직 일반직 4급_일반행정분야(정보보안) : 1명\n- 보다 자세한 사항은 첨부파일의 채용공고문을 참조\n○ 공무직 일반직 5급_상담교육분야 : 1명\n- 보다 자세한 사항은 첨부파일의 채용공고문을 참조",
+"preference": "국가유공자, 장애인, 지역인재, 저소득층, 한부모가족, 북한이탈주민, 다문화가족 등(※ 보다 자세한 사항은 첨부파일의 채용공고문을 참조)",
+"process": "○ 서류심사\n- 선발예정배수 : 5배수 이내\n- 평가방법 및 배점 : 정량평가 50점(자격증 25점, 경력 25점), 정성평가 50점(경험사항 및 직무수행 기술서 25점, 자기소개서 25점)\n- 공고기간 : 2026년 10월 29일(목) ~ 2026년 11월 13일(금) 12:00까지\n- 접수기간 : 2026년 10월 30일(금) ~ 2026년 11월 13일(금) 12:00까지\n- 접수방법 : 입사지원 사이트(https://kyci.fairyhr.com) 통한 인터넷 접수\n○ 면접심사\n- 선발예정배수 : 1배수\n- 평가방법 및 배점 : 직무 전문성 35점, 조직 적합성 35점, 인성 및 태도 30점\n공무직 일반직 4급_일반행정분야(정보보안)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n공무직 일반직 5급_상담교육분야\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n공고문\n(채용공고 제2026-3호)국립대구청소년디딤센터 직원 채용 공고문.pdf\n입사지원서\n[붙임] 입사지원서(서식).pdf\n직무기술서",
+"files": [
+{
+"name": "(채용공고 제2026-3호)국립대구청소년디딤센터 직원 채용 공고문.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083651"
+},
+{
+"name": "[붙임] 입사지원서(서식).pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083652"
+},
+{
+"name": "[붙임] NCS기반 채용직무 명세서.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083653"
+},
+{
+"name": "[붙임] 가산점 부여 기준.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083654"
+},
+{
+"name": "[붙임] 이의신청서.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083655"
+},
+{
+"name": "[붙임] 채용서류 반환청구서.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083656"
+}
+]
+},
+"regions": [
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306512": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306512",
+"title": "2026년도 서민금융진흥원 제4차 기간제(민생지킴대출) 직원 채용 공고",
+"org": "서민금융진흥원",
+"loc": "서울 외 15",
+"work_type": "비정규직",
+"posted": "2026-10-29",
+"deadline": "2026-11-12",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306512",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": true,
+"group": "금융공기업",
+"org_key": "서민금융진흥원",
+"detail": {
+"ncs": "경영.회계.사무,금융.보험",
+"edu": "학력무관",
+"field": "사무직,계약직,상담직",
+"career": "신입",
+"work_type_full": "비정규직",
+"locs": [
+"서울",
+"인천",
+"대전",
+"대구",
+"부산",
+"울산",
+"경기",
+"강원",
+"충남",
+"충북",
+"경북",
+"경남",
+"전북",
+"제주",
+"세종",
+"전남광주"
+],
+"pay": "신입 / 평균",
+"headcount": "134명",
+"home_url": "https://kinfa.scout.co.kr",
+"qualification": "<공통 자격>\nㅇ 학력, 전공, 성별, 연령* 등 제한 없음\n* 서금원 정년(만60세)을 고려하여 채용예정일(‘26.12.23.) 기준 만 60세 이상인 자는 지원 불가\nㅇ 해외여행에 결격사유가 없는 자\nㅇ 남자의 경우 병역필 또는 면제자\n- 단, 현역 군장병의 경우 임용일('26.12.23.)부터 즉시 근무 가능한 자\nㅇ 채용 확정 후 채용예정일로부터 즉시 근무 가능한 자(입사유예 불가)\nㅇ「국가공무원법」제33조 및 서민금융진흥원 내규에 의한 채용 결격사유가 없는 자",
+"preference": "<법정가점>\nㅇ 보훈 : '독립유공자 예우에 관한 법률' 제16조에 따른 취업지원 대상자, '국가유공자 등 예우 및 지원에 관한 법률' 제29조에 따른 취업지원 대상자, '보훈보상대상자 지원에 관한 법률' 제33조에 따른 취업지원 대상자, '고엽제후유의증 등 환자지원 및 단체설립에 관한 법률' 제7조의9에 따른 취업지원 대상자, '5·18 민주유공자 예우 및 단체설립에 관한 법률' 제20조에 따른 취업지원 대상자, '특수임무유공자 예우 및 단체설립에 관한 법률' 제19조에 따른 취업지원 대상자\n→ 각 전형 단계별 5~10점 가점 부여(4명 이상 채용 부문만 해당)\n→ 각 전형 단계별 동점자 처리 기준에 따라 보훈대상자 우선 선발(모든 부문 해당)\nㅇ 장애 : '장애인고용촉진 및 직업재활법' 제2조제1호에 따른 장애인\n→ 각 전형 단계별 5점 가점 부여\n※ 법정 가점은 항목 간 중복적용 가능(최대 10점)\n<사회형평가점> 다음 아래 항목 중 하나에 해당하는 경우\nㅇ '한부모가족지원법'에 따른 지원대상자\nㅇ '북한이탈주민의 보호 및 정착지원에 관한 법률'에 따른 북한이탈주민등록자\nㅇ '다문화가족지원법'에 따른 다문화가족의 구성원\nㅇ '국민기초생활보장법' 제2조제2호에 따른 기초생활 수급자\n→ 직무적합성 평가 전형 3점 가점 부여\n※ 사회형평적 우대사항은 항목 간 중복적용 불가능(최대 3점)",
+"process": "ㅇ 1차: 직무적합성평가(3배수)\n- (선발기준) 자격요건 충족자 중 우대사항을 반영한 평가항목의 총점수를 종합하여 고득점자 순으로 면접대상자 선발\n※ 직무적합성 평가 결과 60점 미만 득점자는 과락\n- (평가내용) 기본자격(P/F), 직무자격, 자기소개서\n* 불성실 기재(동일어구 반복, 직무와 무관한 내용 서술 등) 및 블라인드 위반에 해당하는 자는 평가 시 불이익이 있을 수 있음\n- (동점자 처리) 우대사항[법정(보훈>장애) > 사회형평] > 직무자격 > 자기소개서 고득점 순\n※ 기본자격은 공고종료일(11.12.) 및 채용예정일(12.23.) 기준\n※ 직무자격은 공고종료일(11.12.)까지 유효하게 등록된 자에 한하여 증빙 가능할 경우에만 인정\nㅇ 2차: 면접전형 (경험면접)(1배수)\n- (선발기준) 우대사항을 반영한 평가항목의 총점수를 종합하여 고득점자 순으로 합격자 선발\n※ 면접 평가 결과 60점 미만 득점자는 과락\n- (평가내용) 경험면접(공무원 채용 4대 평정요소* 보유여부 평가)\n* ① 소통'공감, ② 헌신'열정, ③ 창의'혁신, ④ 윤리'책임\n- (동점자 처리) 우대사항[법정(보훈>장애) > 사회형평] > 소통·공감 > 헌신·열정 > 창의?혁신 > 윤리·책임 > 직전 전형 고득점 순\n- (진행일자) 12.9.(수)~12.11.(금) (예정)\nㅇ 임용예정일 :‘26.12.23.(수) (예정)\n※ 보다 자세한 사항은 첨부파일의 채용공고문을 참조\n서울권역\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n춘천센터\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종",
+"files": [
+{
+"name": "서민금융진흥원 2026년 제4차 기간제(민생지킴대출) 채용 공고문_이미지.png",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083637"
+},
+{
+"name": "직무기술서.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083638"
+}
+]
+},
+"regions": [
+"서울",
+"부산",
+"그 외 경남",
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306511": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306511",
+"title": "[소백산] 소백산사무소 국립공원지킴이 모집 공고",
+"org": "국립공원공단",
+"loc": "경북",
+"work_type": "비정규직",
+"posted": "2026-10-29",
+"deadline": "2026-11-09",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306511",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "경비.청소,환경.에너지.안전",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"경북"
+],
+"pay": "신입 / 평균",
+"headcount": "1명",
+"home_url": "https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019989",
+"qualification": "- 학력, 전공, 나이 제한 없음(만18세이상)\n- 공단 인사규정 제18조(결격사유)에 해당되지 않는 자\n- 소득, 자산 기준 초과자는 참여 제한\n- 직접일자리사업 반복 및 중복 참여자는 참여 제한",
+"preference": "- 국립공원 지역주민\n- 관련 분야 경력자\n- 취업지원대상자(전형별 5%~10%)\n- 봉사활동 실적 보유자(3년 이내의 경력에 한해, 국가·공공기관 1365포털·VMS 발급에 한해 인정)\n- 취업취약계층",
+"process": "- 서류전형 평가: 서류항목(60%), 직무적합성(40%) ※ 과락기준 운영\n- 평가기준\n· 서류항목: 경력, 봉사활동, 취업취약계층 등\n· 직무적합성: 경험경력기술서 충실성 등\n- 최종합격자 선발: 합산 결과 최고득점자 순 선발\n국립공원지킴이(녹색순찰대)\n구분\n선발인원\n응시인원\n결과 확정일\n최종\n-\n-\n-\n공고문\n소백산사무소 국립공원지킴이 모집 공고.pdf\n입사지원서\n(붙임1) 신청서 및 기술서.hwp\n직무기술서\n(붙임2) 직무 설명자료.hwp\n기타 첨부파일\n(붙임3) 경력 확인서.hwp\n(붙임4) 취업취약계층 확인방법 및 취업지원대상자 배점기준.hwp\n미첨부사유\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');\n$(this).addClass('current');\n$(this).addClass('on');\n$(\"#\"+tab_id).addClass('current');\n});\nfunction dateFormatter(data){\nvar date = \"\";\ndate = data.toLocaleDateString('ko-KR', {year:'numeric', month: '2-digit', day: '2-digit'});\ndate = date.slice(0, date.length-1).replace(/ /gi, \"\"); // '2024.01.01'형식\nreturn date;\n}",
+"files": [
+{
+"name": "소백산사무소 국립공원지킴이 모집 공고.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083629"
+},
+{
+"name": "(붙임1) 신청서 및 기술서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083630"
+},
+{
+"name": "(붙임2) 직무 설명자료.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083631"
+},
+{
+"name": "(붙임3) 경력 확인서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083632"
+},
+{
+"name": "(붙임4) 취업취약계층 확인방법 및 취업지원대상자 배점기준.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083633"
+}
+]
+},
+"regions": [
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306510": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306510",
+"title": "2026년 육아휴직 대체인력(보건관리) 채용 공고",
+"org": "제주국제자유도시개발센터",
+"loc": "제주",
+"work_type": "비정규직",
+"posted": "2026-10-29",
+"deadline": "2026-11-13",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306510",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "환경.에너지.안전",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"제주"
+],
+"pay": "신입 / 평균",
+"headcount": "1명",
+"home_url": "https://jdc.recruit-zone.co.kr/",
+"qualification": "ㅇ 학력, 성별 및 전공에 따른 응시자격 제한 없음\nㅇ JDC 규정상 채용 결격사유에 해당하지 않는 분\nㅇ 최종 합격 발표 이후 즉시 근무가 가능하신 분\nㅇ 「간호법」 제4조, 「의료법」 제65조, 제66조에 따른 유효한 간호사 면허 소지자(간호조무사 제외)\nㅇ 공고일 기준 유효한 자격에 한하여 인정함",
+"preference": "ㅇ 법률에 의한 취업지원 대상자: 관련법령에 따라 각 전형단계별 만점의 5~10% 부가점수 부여\nㅇ 국사편찬위원회에서 주관하는 한국사능력검정시험 4급 이상의 성적을 보유한 자: 서류전형 및 필기시험 만점의 1% 부가점수 부여\n※ 자세한 우대내용은 첨부된 공고문 참고",
+"process": "ㅇ1차전형(서류심사) ※ 자세한 전형단계 안내는 첨부된 공고문 참고\n- (기간제근로자) 자기소개서, 직무관련 경력사항을 평가\n- 만점(총 100점, 부가점수 포함) 내에서 60점 이상인 자 중에서 고득점자 순으로 분야별 채용예정인원의 3배수 선발, 합격 기준 최하위 동점자 발생 시 동점자 전원 합격처리\n※ 1차전형 합격자를 대상으로 지원자격 및 가점 등 관련 증빙서류(사본)을 징구\nㅇ 2차전형(면접심사)\n- 경험·상황면접을 통해 직무 지식 및 직무 태도를 평가\n- 만점(총 100점, 부가점수 포함) 내에서 60점 이상인 자 중에서 분야별 고득점자 순으로 채용예정인원 합격처리, 합격 기준 최하위 동점자 발생시 「직원 채용 업무 처리지침」 제20조에 따라 처리함\nㅇ 검증\n- 신체검사: 국가건강검진 결과서(국민건강보험공단 발급) 징구\n- 결격사유 확인: 합격자에게 채용 결격사유 징구\n기간제근로자_자격_보건관리(전국)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n공고문\n(ALIO) 2026년 육아휴직 대체인력(보건관리) 채용 공고문.pdf\n입사지원서\n(ALIO) 2026년 육아휴직 대체인력(보건관리) 채용 입사지원서 및 기타서류.pdf\n직무기술서\n(직무기술서) 제주국제자유도시개발센터_보건관리.pdf\n기타 첨부파일\n미첨부사유\n기타 서류 입사지원서 파일 참고\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');\n$(this).addClass('current');\n$(this).addClass('on');",
+"files": [
+{
+"name": "(ALIO) 2026년 육아휴직 대체인력(보건관리) 채용 공고문.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083624"
+},
+{
+"name": "(ALIO) 2026년 육아휴직 대체인력(보건관리) 채용 입사지원서 및 기타서류.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083625"
+},
+{
+"name": "(직무기술서) 제주국제자유도시개발센터_보건관리.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083626"
+}
+]
+},
+"regions": [
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306497": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306497",
+"title": "[광산지사] 기간제근로자(근로자정보조사원-휴직대체) 채용 공고",
+"org": "근로복지공단",
+"loc": "전남광주",
+"work_type": "비정규직",
+"posted": "2026-10-29",
+"deadline": "2026-11-05",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306497",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "경영.회계.사무",
+"edu": "학력무관",
+"field": "사무직",
+"career": "신입",
+"work_type_full": "비정규직",
+"locs": [
+"전남광주"
+],
+"pay": "신입 / 평균",
+"headcount": "1명",
+"home_url": "https://www.comwel.or.kr/recruit/hp/main.do",
+"qualification": "0 학력·경력·연령 제한 없음\n0 국가공무원법 제33조 및 공단 인사규정 제14조에 저촉되지 않는 자\n0 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\n- 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한 자\n0 임용예정일 즉시 근무가 가능한 자\n- 임용일은 공단 사정에 따라 변경될 수 있음",
+"preference": "0『산업재해보상보험법』제5조제1호에 의한「업무상 재해」로 사망한 근로자의 유자녀 및 3급 이상 장해등급 판정을 받은 근로자 또는 자녀\n0『장애인고용촉진 및 직업재활법시행령』 제3조의 규정에 해당하는 자\n0『의사상자 등 예우 및 지원에 관한 법률』 제2조에 따른 의상자 또는 의사자의 자녀\n0『국민기초생활보장법』상 수급자 및 차상위 계층자\n0『다문화가족지원법』 제2조에 따른 다문화가족에 해당하며 대한민국 국적인 사람\n0『북한이탈주민의 보호 및 정착지원에 관한 법률』에 따른 북한이탈주민\n0 경력보유여성\n0 자립준비 청년\n※ 취업지원대상자에 대한 우대는 『국가유공자 등 예우 및 지원에 관한 법률』제31조에 따름\n- 모집단위별(경쟁유형·직렬·권역) 선발예정인원이 4명 이상일 경우(예외: 4명 미만이라도 응시자가 선발예정인원과 같거나 적을 경우) 가점 부여, 그 외에는 동점자 발생 시 우선순위 부여\n※ 자세한 사항은 첨부파일의 채용공고문을 참조하시기 바랍니다.",
+"process": "○ 전형방법: 서류전형(1차) → 면접전형 및 서류검증(2차) → 임용후보자 등록\n- 서류전형(1차): 채용예정인원의 5배수, 응시원서 기준 정량평가[100점 만점(우대가점 포함시 110점)]: 전산자격(35점), 전문자격(35점), 한국사자격(10점), 국어능력(20점)(사회형평 우대가점 10점)\n- 면접전형(2차): 질의응답식 개별 또는 집단 면접(내부직원 및 외부위원 구성, 100점)\n※ 자세한 사항은 첨부파일의 채용공고문을 참조하시기 바랍니다.\n근로자정보조사원(기간제_휴직대체)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n공고문\n261029 [광산지사] 기간제근로자(근로자정보조사원-휴직대체) 채용 공고문.hwp\n입사지원서\n261029 [광산지사] 기간제근로자(근로자정보조사원-휴직대체) 채용 입사지원서.hwp\n직무기술서\n261029 [광산지사] 기간제근로자(근로자정보조사원-휴직대체) 채용 직무기술서.hwp\n기타 첨부파일\n미첨부사유\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');\n$(this).addClass('current');\n$(this).addClass('on');\n$(\"#\"+tab_id).addClass('current');\n});\nfunction dateFormatter(data){\nvar date = \"\";\ndate = data.toLocaleDateString('ko-KR', {year:'numeric', month: '2-digit', day: '2-digit'});\ndate = date.slice(0, date.length-1).replace(/ /gi, \"\"); // '2024.01.01'형식\nreturn date;",
+"files": [
+{
+"name": "261029 [광산지사] 기간제근로자(근로자정보조사원-휴직대체) 채용 공고문.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083582"
+},
+{
+"name": "261029 [광산지사] 기간제근로자(근로자정보조사원-휴직대체) 채용 입사지원서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083583"
+},
+{
+"name": "261029 [광산지사] 기간제근로자(근로자정보조사원-휴직대체) 채용 직무기술서.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083584"
+}
+]
+},
+"regions": [
+"기타"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306498": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306498",
+"title": "전문직1등급(촉탁의, 내과) 채용공고",
+"org": "경상국립대학교병원",
+"loc": "경남",
+"work_type": "비정규직",
+"posted": "2026-10-29",
+"deadline": "2026-12-31",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306498",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "보건.의료",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"경남"
+],
+"pay": "신입 / 평균",
+"headcount": "15명",
+"home_url": "https://gnuh.recruiter.co.kr/",
+"qualification": "가. 본원 인사규정 제24조(결격사유) 제6호부터 제17호까지 해당되지 않는 자\n나. 모집분야별 응시자격 등 보다 자세한 사항은 첨부파일의 채용공고문을 참조",
+"preference": "취업지원 대상자(「국가유공자 등 예우 및 지원에 관한 법률」 등에 따라 취업지원을 받을 수 있는 사람)에게는 관련법에서 정한 가점을 부여함.",
+"process": "1차(서류전형) : 응시자의 기초심사자료 적합 제출 여부\n2차(면접시험)\n가. 지원자의 인성, 적격성 등 심사\n나. 면접평점 평균이 40점 이상 득점한 사람 중에서 면접점수가 높은 사람부터 차례로 선발예정인원에 달 할 때까지 합격자 결정\n3차 (신체검사 등) : 신체검사 및 지원자격요건 충족여부에 대한 자료제출 및 진위여부 확인\n내과 촉탁의\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n최종\n-\n-\n-\n공고문\n전문직1등급(촉탁의 내과) 채용 공고.pdf\n입사지원서\n(별지서식) 촉탁의.hwp\n직무기술서\n(직무기술서) 전문의.hwp\n기타 첨부파일\n미첨부사유\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');\n$(this).addClass('current');\n$(this).addClass('on');\n$(\"#\"+tab_id).addClass('current');\n});",
+"files": [
+{
+"name": "전문직1등급(촉탁의 내과) 채용 공고.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083585"
+},
+{
+"name": "(별지서식) 촉탁의.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083586"
+},
+{
+"name": "(직무기술서) 전문의.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083587"
+}
+]
+},
+"regions": [
+"그 외 경남"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306499": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306499",
+"title": "전문직1등급(촉탁의, 소아청소년과) 채용공고",
+"org": "경상국립대학교병원",
+"loc": "경남",
+"work_type": "비정규직",
+"posted": "2026-10-29",
+"deadline": "2026-12-31",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306499",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "보건.의료",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"경남"
+],
+"pay": "신입 / 평균",
+"headcount": "2명",
+"home_url": "https://gnuh.recruiter.co.kr/",
+"qualification": "가. 본원 인사규정 제24조(결격사유) 제6호부터 제17호까지 해당되지 않는 자\n나. 모집분야별 응시자격 등 보다 자세한 사항은 첨부파일의 채용공고문을 참조",
+"preference": "취업지원 대상자(「국가유공자 등 예우 및 지원에 관한 법률」 등에 따라 취업지원을 받을 수 있는 사람)에게는 관련법에서 정한 가점을 부여함.",
+"process": "1차(서류전형) : 응시자의 기초심사자료 적합 제출 여부\n2차(면접시험)\n가. 지원자의 인성, 적격성 등 심사\n나. 면접평점 평균이 40점 이상 득점한 사람 중에서 면접점수가 높은 사람부터 차례로 선발예정인원에 달 할 때까지 합격자 결정\n3차 (신체검사 등) : 신체검사 및 지원자격요건 충족여부에 대한 자료제출 및 진위여부 확인\n소아청소년과 촉탁의\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n최종\n-\n-\n-\n공고문\n전문직1등급(촉탁의 소아청소년과) 채용 공고.pdf\n입사지원서\n(별지서식) 촉탁의.hwp\n직무기술서\n(직무기술서) 전문의.hwp\n기타 첨부파일\n미첨부사유\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');\n$(this).addClass('current');\n$(this).addClass('on');\n$(\"#\"+tab_id).addClass('current');\n});",
+"files": [
+{
+"name": "전문직1등급(촉탁의 소아청소년과) 채용 공고.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083588"
+},
+{
+"name": "(별지서식) 촉탁의.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083594"
+},
+{
+"name": "(직무기술서) 전문의.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083590"
+}
+]
+},
+"regions": [
+"그 외 경남"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306500": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306500",
+"title": "전문직1등급(촉탁의, 외과) 채용공고",
+"org": "경상국립대학교병원",
+"loc": "경남",
+"work_type": "비정규직",
+"posted": "2026-10-29",
+"deadline": "2026-12-31",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306500",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "보건.의료",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"경남"
+],
+"pay": "신입 / 평균",
+"headcount": "1명",
+"home_url": "https://gnuh.recruiter.co.kr/",
+"qualification": "가. 본원 인사규정 제24조(결격사유) 제6호부터 제17호까지 해당되지 않는 자\n나. 모집분야별 응시자격 등 보다 자세한 사항은 첨부파일의 채용공고문을 참조",
+"preference": "취업지원 대상자(「국가유공자 등 예우 및 지원에 관한 법률」 등에 따라 취업지원을 받을 수 있는 사람)에게는 관련법에서 정한 가점을 부여함.",
+"process": "1차(서류전형) : 응시자의 기초심사자료 적합 제출 여부\n2차(면접시험)\n가. 지원자의 인성, 적격성 등 심사\n나. 면접평점 평균이 40점 이상 득점한 사람 중에서 면접점수가 높은 사람부터 차례로 선발예정인원에 달 할 때까지 합격자 결정\n3차 (신체검사 등) : 신체검사 및 지원자격요건 충족여부에 대한 자료제출 및 진위여부 확인\n외과 촉탁의\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n최종\n-\n-\n-\n공고문\n전문직1등급(촉탁의 외과) 채용 공고.pdf\n입사지원서\n(별지서식) 촉탁의.hwp\n직무기술서\n(직무기술서) 전문의.hwp\n기타 첨부파일\n미첨부사유\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');\n$(this).addClass('current');\n$(this).addClass('on');\n$(\"#\"+tab_id).addClass('current');\n});",
+"files": [
+{
+"name": "전문직1등급(촉탁의 외과) 채용 공고.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083591"
+},
+{
+"name": "(별지서식) 촉탁의.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083592"
+},
+{
+"name": "(직무기술서) 전문의.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083593"
+}
+]
+},
+"regions": [
+"그 외 경남"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306501": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306501",
+"title": "전문직1등급(촉탁의, 응급의학과) 채용공고",
+"org": "경상국립대학교병원",
+"loc": "경남",
+"work_type": "비정규직",
+"posted": "2026-10-29",
+"deadline": "2026-12-31",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306501",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "보건.의료",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"경남"
+],
+"pay": "신입 / 평균",
+"headcount": "1명",
+"home_url": "https://gnuh.recruiter.co.kr/",
+"qualification": "가. 본원 인사규정 제24조(결격사유) 제6호부터 제17호까지 해당되지 않는 자\n나. 모집분야별 응시자격 등 보다 자세한 사항은 첨부파일의 채용공고문을 참조",
+"preference": "취업지원 대상자(「국가유공자 등 예우 및 지원에 관한 법률」 등에 따라 취업지원을 받을 수 있는 사람)에게는 관련법에서 정한 가점을 부여함.",
+"process": "1차(서류전형) : 응시자의 기초심사자료 적합 제출 여부\n2차(면접시험)\n가. 지원자의 인성, 적격성 등 심사\n나. 면접평점 평균이 40점 이상 득점한 사람 중에서 면접점수가 높은 사람부터 차례로 선발예정인원에 달 할 때까지 합격자 결정\n3차 (신체검사 등) : 신체검사 및 지원자격요건 충족여부에 대한 자료제출 및 진위여부 확인\n응급의학과 촉탁의\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n최종\n-\n-\n-\n공고문\n전문직1등급(촉탁의 응급의학과) 채용 공고.pdf\n입사지원서\n(별지서식) 촉탁의.hwp\n직무기술서\n(직무기술서) 전문의.hwp\n기타 첨부파일\n미첨부사유\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');\n$(this).addClass('current');\n$(this).addClass('on');\n$(\"#\"+tab_id).addClass('current');\n});",
+"files": [
+{
+"name": "전문직1등급(촉탁의 응급의학과) 채용 공고.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083595"
+},
+{
+"name": "(별지서식) 촉탁의.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083596"
+},
+{
+"name": "(직무기술서) 전문의.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083597"
+}
+]
+},
+"regions": [
+"그 외 경남"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306502": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306502",
+"title": "전문직1등급(촉탁의, 치과) 채용공고",
+"org": "경상국립대학교병원",
+"loc": "경남",
+"work_type": "비정규직",
+"posted": "2026-10-29",
+"deadline": "2026-12-31",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306502",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "보건.의료",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"경남"
+],
+"pay": "신입 / 평균",
+"headcount": "1명",
+"home_url": "https://gnuh.recruiter.co.kr/",
+"qualification": "가. 본원 인사규정 제24조(결격사유) 제6호부터 제17호까지 해당되지 않는 자\n나. 모집분야별 응시자격 등 보다 자세한 사항은 첨부파일의 채용공고문을 참조",
+"preference": "취업지원 대상자(「국가유공자 등 예우 및 지원에 관한 법률」 등에 따라 취업지원을 받을 수 있는 사람)에게는 관련법에서 정한 가점을 부여함.",
+"process": "1차(서류전형) : 응시자의 기초심사자료 적합 제출 여부\n2차(면접시험)\n가. 지원자의 인성, 적격성 등 심사\n나. 면접평점 평균이 40점 이상 득점한 사람 중에서 면접점수가 높은 사람부터 차례로 선발예정인원에 달 할 때까지 합격자 결정\n3차 (신체검사 등) : 신체검사 및 지원자격요건 충족여부에 대한 자료제출 및 진위여부 확인\n치과 촉탁의\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n최종\n-\n-\n-\n공고문\n전문직1등급(촉탁의 치과) 채용 공고.pdf\n입사지원서\n(별지서식) 촉탁의.hwp\n직무기술서\n(직무기술서) 전문의.hwp\n기타 첨부파일\n미첨부사유\n닫기\n$('ul.tabsContent li').click(function(){\nvar tab_id = $(this).attr('data-tab');\n$('ul.tabsContent li').removeClass('current');\n$('ul.tabsContent li').removeClass('on');\n$('.tab-content').removeClass('current');\n$(this).addClass('current');\n$(this).addClass('on');\n$(\"#\"+tab_id).addClass('current');\n});",
+"files": [
+{
+"name": "전문직1등급(촉탁의 치과) 채용 공고.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083598"
+},
+{
+"name": "(별지서식) 촉탁의.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083599"
+},
+{
+"name": "(직무기술서) 전문의.hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083600"
+}
+]
+},
+"regions": [
+"그 외 경남"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306505": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306505",
+"title": "[창원경상국립대학교병원] 업무지원직 채용공고",
+"org": "경상국립대학교병원",
+"loc": "경남",
+"work_type": "정규직",
+"posted": "2026-10-29",
+"deadline": "2026-11-04",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306505",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "보건.의료",
+"edu": "학력무관",
+"field": "기타(업무지원직)",
+"career": "신입+경력",
+"work_type_full": "정규직",
+"locs": [
+"경남"
+],
+"pay": "신입 / 평균",
+"headcount": "4명",
+"home_url": "https://gnuh.recruiter.co.kr/",
+"qualification": "1. 시설관리(건축, 조경): 건축 또는 조경 관련 기능사 이상의 자격증 소지자(국가기술자격증 및 국가전문자격증에 한함)\n2. 시설관리(전기): 전기 관련 기능사 이상의 자격증 소지자 (국가기술자격증 및 국가전문자격증에 한함)\n3. 전체 공통 응시자격\n가. 입사지원서 접수 마감일 현재 만 18세 이상이면서 60세 미만인 자\n나. 남자인 경우, 입사지원서 접수 마감일 현재병역을 마쳤거나 면제된 자\n다. 본원 인사규정 제24조(결격사유)에 해당되지 않는 자",
+"preference": "취업지원 대상자(「국가유공자 등 예우 및 지원에 관한 법률」 등에 따라 취업지원을 받을 수 있는 사람)에게는 관련법에서 정한 가점을 부여함.",
+"process": "1. 전형절차\n가. 전 단계의 시험에 합격하지 아니하면 다음 단계의 시험에 응시 할 수 없음.\n나. 각 시험 단계 별 득점은 누적되지 않으며, 해당 시험 단계의 득점으로 합격자를 결정함.\n2. 전형방법\n가. 1차(서류전형) : 입사지원서 서면 심사 적부 판단\n나. 2차(면접시험) : 채용예정 직무 수행에 필요한 능력, 인성 및 적격성 검정, 100점\n다. 최종(신체검사 등) : 신체검사 등\n시설관리(건축, 조경)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n최종\n-\n-\n-\n시설관리(전기)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n3차\n-\n-",
+"files": [
+{
+"name": "2026년 10월 업무지원직 채용공고.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083611"
+},
+{
+"name": "입사지원서 양식 .pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083612"
+},
+{
+"name": "직무기술서(업무지원직(시설관리)).hwp",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083613"
+}
+]
+},
+"regions": [
+"창원"
+],
+"kinds": [
+"신입 정규직"
+],
+"open": true
+},
+"alio-306508": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306508",
+"title": "2026년 정규직 직원 등 모집",
+"org": "제주국제자유도시개발센터",
+"loc": "서울 외 1",
+"work_type": "정규직",
+"posted": "2026-10-29",
+"deadline": "2026-11-13",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306508",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "사업관리,경영.회계.사무,운전.운송,영업판매,건설,전기.전자,정보통신",
+"edu": "학력무관,고졸",
+"field": "일반직,공무직",
+"career": "신입",
+"work_type_full": "정규직",
+"locs": [
+"서울",
+"제주"
+],
+"pay": "신입 / 평균",
+"headcount": "18명",
+"home_url": "https://jdc.recruit-zone.co.kr/",
+"qualification": "(6급, 7급, 공무직)\nㅇ 나이, 학력, 성별 및 전공에 따른 응시자격 제한 없음(단, 기관 정년 고려하여 만 60세 미만이어야 함)\nㅇ JDC 인사규정에 따른 임용 결격사유에 해당하지 않는 분\nㅇ 최종 합격 발표 이후 즉시 근무가 가능하신 분\n※ 분야별 응시자격은 첨부된 공고문 참고",
+"preference": "ㅇ 공통 가점사항\n- 개발센터 체험형 청년인턴을 수료한 자(공개채용을 통한 모집인 경우에 한함): 서류전형 및 필기시험 만점의 1%\n- 개발센터 체험형 청년인턴을 수료한 자 중 우수인턴으로 선발된 자: 서류전형 및 필기시험 만점의 1% 추가 부여\n- 개발센터에 1년이상 2년 미만 재직한 자: 각 전형단계별 만점의 1%\n- 개발센터에 2년 이상 재직한 자: 각 전형단계별 만점의 3%\n- 국사편찬위원회에서 주관하는 한국사능력검정시험 4급 이상의 성적을 보유한 자: 서류전형 및 필기시험 만점의 1%\n※ 보다 자세한 사항은 첨부파일의 채용공고문을 참조",
+"process": "1차전형\n- 공통\n· 만점(총 100점, 부가점수 포함) 내에서 60점 이상인 자 중에서 고득점자 순으로 분야별 채용예정인원의 3배수 선발, 합격 기준 최하위 동점자 발생 시 동점자 전원 합격처리\n- 필기시험\n· (6급 전분야): NCS기반 선택형(5지선다) 직업기초능력 40문항, 직무수행능력 10문항\n· (7급 전분야): NCS기반 선택형(5지선다) 직업기초능력 50문항\n- 서류심사\n· (공무직) 자기소개서, 역량기술서, 운전경력증명서상 무사고기간을 평가\nㅇ 인성검사 및 증빙제출(사본)\n- 지원자 성향 분석 및 조직 적합도 분석한 결과를 면점심사 참고자료로 활용\n- 1차 전형 합격자를 대상으로 온라인 인성검사 별도 안내\n- 1차 전형 합격자(예비합격자 포함)를 대상으로 응시자격 및 가점 등 관련 증빙서류(사본)를 징구\nㅇ 2차전형\n- 공통\n· 만점(총 100점, 부가점수 포함) 내에서 전형결과가 60점 이상 되는 자 중에서 분야별 고득점자 순으로 채용예정인원 합격처리, 합격기준 최하위 동점자 발생시 직원 채용 업무 처리지침 제20조에 따라 처리함\n- 면접심사\n· (6급 일반행정): 경험,상황면접 및 토론면접 통해 직업기초능력 및 직무수행능력을 평가 * 보훈 제외\n· (그 외분야) 경험,상황면접 을 통해 직업기초능력 및 직무수행능력을 평가\nㅇ 검증\n- 신체검사: 국가건강검진 결과서(국민건강보험공단 발급) 징구\n- 결격사유 확인: 합격자에게 채용 결격사유 징구\n※ 채용직급 및 모집분야별 자세한 전형단계 안내는 첨부된 공고문 참고\n※ 3개월 수습으로 임용하며, 해당 기간 근무성적이 양호한 경우 정규 임용\n6급_자격_일반행정(전국)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n최종\n-\n-\n-\n6급_자격_일반행정(제주)\n구분\n선발인원\n응시인원",
+"files": [
+{
+"name": "(ALIO) 2026년 정규직 직원 등 채용 공고문.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083617"
+},
+{
+"name": "(ALIO) 2026년 정규직 직원 등 채용 입사지원서 및 기타서류.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083618"
+},
+{
+"name": "(직무기술서) 2026년 정규직 직원 등 모집.zip",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083619"
+}
+]
+},
+"regions": [
+"서울",
+"기타"
+],
+"kinds": [
+"신입 정규직"
+],
+"open": true
+},
+"alio-306507": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306507",
+"title": "[창원경상국립대학교병원] 계약직 채용공고",
+"org": "경상국립대학교병원",
+"loc": "경남",
+"work_type": "비정규직",
+"posted": "2026-10-29",
+"deadline": "2026-11-04",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306507",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "보건.의료",
+"edu": "학력무관",
+"field": "계약직",
+"career": "신입+경력",
+"work_type_full": "비정규직",
+"locs": [
+"경남"
+],
+"pay": "신입 / 평균",
+"headcount": "18명",
+"home_url": "https://gnuh.recruiter.co.kr/",
+"qualification": "1. 임상병리사(진단검사의학과):\n- 임상병리사 면허증 소지자\n2. 임상병리사(심장검사실):\n- 임상병리사 면허증 소지자\n3. 응급구조사(응급의료센터):\n- 1급 응급구조사 자격증 소지자\n4. 사무보조(홍보팀):\n- 영상 촬영·편집 및 SNS 기반 디지털 홍보 콘텐츠 제작 업무 가능자\n- 영상·미디어·디자인 등 관련 분야 전공자 우대\n- 영상 촬영 및 편집 프로그램 활용 유경험자 우대\n5. 뇌졸중코디네이터(신경과):\n- 간호사 면허증 소지자\n6. 사업전담인력(학생정신건강거점센터):\n- 사회복지사, 임상심리사, 간호사 중 어느 하나의 면허 또는 자격증 소지자\n7. 방사선사(영상의학과, 대체근로자):\n- 방사선사 면허증 소지자\n8. 임상병리사(심장검사실, 대체근로자):\n- 임상병리사 면허증 소지자\n9. 사업전담인력(공공보건의료 협력체계 구축사업 사회복지사, 대체근로자):\n- 사회복지사 1급 이상의 자격증 소지자\n- 상담 및 유관 기관 협력 업무 가능자\n- 사회복지 분야 근무경력 1년 이상인 자 우대\n- 정신건강 또는 의료사회복지사 우대\n10. 전체 공통 응시자격\n가. 입사지원서 접수 마감일 현재 만 18세 이상이면서 60세 미만인 자\n나. 남자인 경우, 입사지원서 접수 마감일 현재 병역을 마쳤거나 면제된 자\n다. 본원 계약직근무자규정 제6조 제1항 제1호에 따른 결격사유에 해당되지 않는 자",
+"preference": "취업지원 대상자(「국가유공자 등 예우 및 지원에 관한 법률」 등에 따라 취업지원을 받을 수 있는 사람)에게는 관련법에서 정한 가점을 부여함.\n사무보조(홍보팀): 영상·미디어·디자인 등 관련 분야 전공자 또는 영상 촬영 및 편집 프로그램 활용 유경험자 우대\n사업전담인력(공공보건의료 협력체계 구축사업 사회복지사, 대체근로자): 사회복지 분야 근무경력 1년 이상인 자 또는 정신건강 또는 의료사회복지사 우대",
+"process": "1. 전형절차\n가. 전 단계의 시험에 합격하지 아니하면 다음 단계의 시험에 응시 할 수 없음.\n나. 각 시험 단계 별 득점은 누적되지 않으며, 해당 시험 단계의 득점으로 합격자를 결정함.\n2. 전형방법\n가. 1차(서류전형) : 입사지원서 서면 심사 적부 판단\n나. 2차(면접시험) : 채용예정 직무 수행에 필요한 능력, 인성 및 적격성 검정, 100점\n다. 최종(신체검사 등) : 신체검사 등\n임상병리사(진단검사의학과)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n최종\n-\n-\n-\n임상병리사(심장검사실)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n최종\n-\n-",
+"files": [
+{
+"name": "2026년 10월 계약직 채용공고 .pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083614"
+},
+{
+"name": "입사지원서 양식 .pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083615"
+},
+{
+"name": "2026년 10월 계약직 직무기술서.zip",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083616"
+}
+]
+},
+"regions": [
+"창원"
+],
+"kinds": [
+"계약직·기간제"
+],
+"open": true
+},
+"alio-306522": {
+"first_seen": "2026-10-31T10:21+09:00",
+"src": "잡알리오",
+"id": "alio-306522",
+"title": "(수정) 한국고전번역원 2026년 4분기 제2차 직원 신규 채용",
+"org": "한국고전번역원",
+"loc": "서울",
+"work_type": "비정규직 외 1",
+"posted": "2026-10-22",
+"deadline": "2026-11-05",
+"url": "https://job.alio.go.kr/recruitview.do?idx=306522",
+"last_seen": "2026-10-31T10:21+09:00",
+"target": false,
+"group": "기타 공공기관",
+"org_key": "",
+"detail": {
+"ncs": "사업관리,교육.자연.사회과학,연구",
+"edu": "대졸(2~3년),대졸(4년),석사,박사",
+"field": "연구직",
+"career": "신입+경력",
+"work_type_full": "비정규직,정규직",
+"locs": [
+"서울"
+],
+"pay": "신입 / 평균",
+"headcount": "3명",
+"home_url": "https://www.itkc.or.kr/bbs/boardView.do?id=2&bIdx=316490&page=1&menuId=99&bc=0&sortName=&sortType=",
+"qualification": "■ 공통요건\n- 국가공무원법 제33조 각 호에 해당하지 않는 자\n- 한국고전번역원 인사규정 제6조(결격사유) 각 호에 해당하지 않는 자\n- 모집분야 해당 업무 수행 가능자\n- 채용확정 후 즉시 근무 가능자\n- 한국고전번역원 인사규정 제19조(정년)에 도달하지 않은 자\n■ 채용분야별 지원자격 요건\n가. 연구직(선임급_정규직)\n<필수조건>\n- 한국학 분야 학위 소지자\n- 박사학위 소지자로서 4년 이상 관련분야 경력자\n- 석사학위 소지자로서 7년 이상 관련분야 경력자\n- 학사학위 소지자로서 9년 이상 관련분야 경력자\n- 전문학사학위 소지자로서 11년 이상 관련분야 경력자\n- 또는 동등 이상의 자격이 있다고 인정되는 자\n<우대조건>\n- 데이터 표준·메타데이터 실무 경력자\n- 저작권·계약 실무 경력자\n- 정책기획 또는 기관 간 협력 업무 경력자\n- 인공지능 학습·평가 자료 구축 또는 언어모델 평가 경험자\n나. 연구직(원급_정규직)\n<필수조건>\n- 한국학 분야 학위 소지자(’27. 2월 졸업예정자 포함)\n- 박사학위 소지자\n- 석사학위 소지자로서 3년 이상 관련분야 경력자\n- 학사학위 소지자로서 5년 이상 관련분야 경력자\n- 전문학사학위 소지자로서 7년 이상 관련분야 경력자\n- 또는 동등 이상 자격이 있다고 인정되는 자\n다. 연구직(부원급_기간제계약직)\n<필수조건>\n- 한국학 분야 학위 소지자(’27. 2월 졸업예정자 포함)\n- 학사 이상\n- 전문학사 후 관련 경력 2년 이상\n- 또는 동등 이상의 자격이 있다고 인정되는 자\n<우대조건>\n- 한문학 관련 전공자 또는 관련 분야 경력자, 한문수학 경력자\n※ 상세 내용은 공고문 참조",
+"preference": "■ 가점 대상\n- 국가유공자 등 취업지원대상자, 장애인, 청년, 경력단절여성, 저소득층, 한부모가족\n※ 상세 내용은 공고문 참조",
+"process": "■ 채용절차\n○ 정규직\n- 서류전형 → 필기전형→ 면접전형 → 합격자발표 → 임용\n※ 원규에 의거하며 그럼에도 불구하고 기준에 미치지 못한 자는 선발하지 않음\n○ 계약직\n- 서류전형 → 면접전형 → 합격자발표 → 임용\n※ 원규에 의거하며 그럼에도 불구하고 기준에 미치지 못한 자는 선발하지 않음\n■ 전형별 세부사항\n○ 정규직\n가. 서류전형 : 자기소개서, 직무 관련성, 직무이해도, 발전가능성, 기관이해도 등 평가 (20배수 이내 선발)\n나. 필기전형 : 직무에 필요한 지식 등 평가(5배수 이내 선발)\n- 연구직(선임급) : 논술(서술형 시험) 및 인적성검사 실시\n- 연구직(원급) : 한문번역, 논술(서술형 시험) 및 인·적성검사 실시\n※ 필기전형 합격자를 대상으로 대행업체를 통해 온라인으로 인·적성 검사를 진행함\n※ 인·적성 검사를 응시완료하지 않을 경우 면접전형 불합격 처리함\n다. 면접전형 : 직무 수행 능력, 기본 소양 등 평가\n- 연구직(선임급)의 경우 과제 발표 등의 PT면접 및 일반면접 실시\n○ 계약직\n가. 서류전형 : 자기소개서, 직무 관련성, 직무이해도, 발전가능성, 기관이해도 등 평가 (5배수 이내 선발)\n나. 면접전형 : 직무 수행 능력, 기본 소양 등 평가\n※ 상세 내용은 공고문 참조\n정규직(연구직_선임급)\n구분\n선발인원\n응시인원\n결과 확정일\n1차\n-\n-\n-\n2차\n-\n-\n-\n최종\n-\n-\n-\n정규직(연구직_원급)\n구분",
+"files": [
+{
+"name": "한국고전번역원 2026년 4분기 제2차 직원채용 공고문.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083893"
+},
+{
+"name": "직무기술서.pdf",
+"url": "https://www.alio.go.kr/download/download.json?fileNo=3083892"
+}
+]
+},
+"regions": [
+"서울"
+],
+"kinds": [
+"신입 정규직"
+],
+"open": true
 }
 },
-"updated": "2026-10-30T10:29+09:00",
-"new_today": []
+"updated": "2026-10-31T10:21+09:00",
+"new_today": [
+"alio-306559",
+"alio-306503",
+"alio-306528",
+"alio-306530",
+"alio-306533",
+"alio-306534",
+"alio-306536",
+"alio-306543",
+"alio-306547",
+"alio-306550",
+"alio-306552",
+"alio-306555",
+"alio-306486",
+"alio-306487",
+"alio-306492",
+"alio-306458",
+"alio-306494",
+"alio-306516",
+"alio-306513",
+"alio-306512",
+"alio-306511",
+"alio-306510",
+"alio-306497",
+"alio-306498",
+"alio-306499",
+"alio-306500",
+"alio-306501",
+"alio-306502",
+"alio-306505",
+"alio-306508",
+"alio-306507",
+"alio-306522"
+]
 }
